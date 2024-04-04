@@ -1,11 +1,11 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: COMBINE-lab # title of site, used in tab name and elsewhere
-email: rob@cs.umd.edu # default email
-google: Rob Patro # default name to search on Google Scholar
-github: COMBINE-lab # default GitHub user/org, without the @
-twitter: nomad421 # default Twitter handle, without the @
+title: GAIR Lab # title of site, used in tab name and elsewhere
+email: joemon.jose@glasgow.ac.uk # default email
+google: Joemon Jose # default name to search on Google Scholar
+github: GAIR Lab # default GitHub user/org, without the @
+twitter: joemonj # default Twitter handle, without the @
 #instagram: fakeinstagramhandle # default Instagram handle, without the @
 #youtube: fakeyoutubechannel # default YouTube channel handle
 

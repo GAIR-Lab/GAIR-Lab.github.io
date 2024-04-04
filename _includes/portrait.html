@@ -1,45 +1,26 @@
-{% if include.lookup %}
-  {% assign member = site.members 
-    | where_exp: "member", "member.slug == include.lookup"
-    | first
-  %}
-{% else %}
-  {% assign member = include %}
-{% endif %}
+<a {% if include.link %}href="{{ include.link | relative_url }}"{% endif %} class="portrait" data-mini="{{ include.mini | default: false }}">
 
-<div class="portrait-wrapper">
-  <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
-    {% endif %}
-    class="portrait"
-    data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
-  >
+  {%- assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url -%}
+
+  <span class="portrait_image">
+    {%- if include.image -%}
     <img
-      src="{{ member.image | relative_url }}"
-      class="portrait-image"
-      alt="member portrait"
-      loading="lazy"
-      {% include fallback.html %}
+      src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
     >
+    {%- else -%}
+    <img src="{{ placeholder }}">
+    {%- endif -%}
+  </span>
 
-    {% if member.name or member.role or member.description %}
-      <span class="portrait-text">
-        {% if member.name %}
-          <span class="portrait-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
+  {%- if include.role -%}
+  {%- include role.html type=include.role -%}
+  {%- endif -%}
 
-        {% if member.role or member.description %}
-          <span class="portrait-role">
-            {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
-          </span>
-        {% endif %}
-      </span>
-    {% endif %}
-  </a>
-</div>
+  {%- if include.name -%}
+  <span class="portrait_name">
+    {{ include.name }}
+  </span>
+  {%- endif -%}
+
+</a>

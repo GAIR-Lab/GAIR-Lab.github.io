@@ -1,47 +1,62 @@
-{{ " " }}
-<div class="card" data-style="{{ include.style }}">
+{% assign size = include.size %}
+
+{% if size != "large" and size != "medium" and size != "small" %}
+{% assign size = "large" %}
+{% endif %}
+
+<div class="card" data-size="{{ size }}">
+  {% assign placeholder = include.placeholder | default: "images/placeholder.svg" | relative_url %}
   <a
-    {% if include.link %}
-      href="{{ include.link | relative_url }}"
-    {% endif %}
-    aria-label="{{ include.title | default: "card link" }}"
-    class="card-image"
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+    class="card_image"
   >
+    {%- if include.image -%}
     <img
       src="{{ include.image | relative_url }}"
-      alt="{{ include.title | default: "card image" }}"
-      loading="lazy"
-      {% include fallback.html %}
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
     >
+    {%- else -%}
+    <img src="{{ placeholder }}">
+    {%- endif -%}
   </a>
-
-  <div class="card-text">
-    {% if include.title %}
-      <a
-        {% if include.link %}
-          href="{{ include.link | relative_url }}"
-        {% endif %}
-        {% if include.tooltip %}
-          data-tooltip="{{ include.tooltip }}"
-        {% endif %}
-        class="card-title"
-      >
-        {{ include.title }}
+  <div class="card_text">
+    {% if include.heading %}
+    <a href="{{ include.link | relative_url }}" class="card_title">
+      {{- include.heading -}}
     </a>
     {% endif %}
 
-    {% if include.subtitle %}
-      <span class="card-subtitle">{{ include.subtitle }}</span>
-    {% endif %}
+    {%- for i in (1..5) -%}
 
-    {% if include.description %}
-      <p>
-        {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
-      </p>
-    {% endif %}
+    {%- assign row = "row" | append: i -%}
+    {%- assign row = include[row] | strip -%}
 
-    {% if include.tags or include.repo %}
-      {% include tags.html tags=include.tags repo=include.repo %}
-    {% endif %}
+    {%- if row != empty -%}
+
+    {%- assign truncate = include.truncate | default: 0 -%}
+    {%- if i <= truncate -%}
+    {%- assign truncate = true -%}
+    {%- else -%}
+    {%- assign truncate = false -%}
+    {%- endif -%}
+
+    {%- assign firstchar = row | slice: 0 -%}
+    {%- if firstchar != "<" -%}
+    <p
+      {% if truncate %}
+      class="truncate"
+      tabindex="0"
+      {% endif %}
+    >
+    {%- endif -%}
+      {{- row | markdownify | remove: "<p>" | remove: "</p>" -}}
+    {%- if firstchar != "<" -%}
+    </p>
+    {%- endif -%}
+    
+    {%- endif -%}
+
+    {%- endfor -%}
+
   </div>
 </div>

@@ -1,32 +1,18 @@
-<!--
-  modify main content of page:
-  - add section breaks
-  - attach section properties
-  - filter out blank sections
--->
+{%- comment -%}
+Script to modify main content of page:
+- wrap each level 1 or 2 heading and its succeeding content in sections
+- wrap each table in div to allow for scrolling
+{%- endcomment -%}
 
-{% assign content = include.content %}
+{%- assign content = include.content -%}
 
-{% assign sections = content | split: "<!-- section break -->" | array_filter %}
+{%- assign content = content | replace: "<!-- section break -->", "</div></section><section><div class='section'>" -%}
 
-{% for section in sections %}
-  {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
-  {% assign background = section
-    | regex_scan: "background: (.*);"
-    | default: nil
-  %}
-  {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
+{%- assign content = content | replace: "<table>", "<div class='table_wrapper'><table>" -%}
+{%- assign content = content | replace: "</table>", "</table></div>" -%}
 
-  <section
-    class="background"
-    data-size="{{ size }}"
-    {% if dark == "true" or dark == "false" %}
-      data-dark="{{ dark }}"
-    {% endif %}
-    {% if background %}
-      style="--image: url('{{ background | relative_url }}')"
-    {% endif %}
-  >
-    {{ section }}
-  </section>
-{% endfor %}
+<section>
+  <div class='section'>
+    {{ content }}
+  </div>
+</section>

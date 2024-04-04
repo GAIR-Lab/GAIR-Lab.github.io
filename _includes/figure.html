@@ -1,25 +1,26 @@
-<figure class="figure">
-  <a
-    {% if include.link %}
-      href="{{ include.link | relative_url }}"
-    {% endif %}
-    class="figure-image"
-    aria-label="{{ include.caption | default: "figure link" }}"
+<figure class="figure" data-flat="{{ include.flat | default: false }}">
+  <a 
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+    class="figure_image"
   >
     <img
       src="{{ include.image | relative_url }}"
+      alt="{{ include.caption }}"
+      title="{{ include.caption }}"
+      data-default="{% if include.width == nil and include.height == nil %}true{% endif %}"
       style="
-        width: {{ include.width | default: "auto" }};
-        max-height: {{ include.height | default: "unset" }};
+        {% if include.width %}
+        max-width: {{ include.width }};
+        {% endif %}
+        {% if include.height %}
+        max-height: {{ include.height }};
+        {% endif %}
       "
-      alt="{{ include.caption | default: "figure image" }}"
-      loading="lazy"
-      {% include fallback.html %}
-    >
+    />
   </a>
-  {% if include.caption %}
-    <figcaption class="figure-caption">
-      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
-    </figcaption>
-  {% endif %}
+  {%- if include.caption -%}
+  <figcaption class="figure_caption">
+    {{- include.caption | markdownify | remove: "<p>" | remove: "</p>" -}}
+  </figcaption>
+  {%- endif -%}
 </figure>

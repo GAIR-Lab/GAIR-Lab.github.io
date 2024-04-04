@@ -1,77 +1,37 @@
 ---
 title: Contact
-nav:
-  order: 5
-  tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# <i class="fas fa-envelope"></i>Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [Department of Computer Science](https://www.cs.umd.edu/), at the [University of Maryland](https://www.umd.edu).
+We are located on the 3rd floor of the [Brendan Iribe Center for Computer Science and Engineering](https://iribe.umd.edu/).
 
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+{% include figure.html image="images/iribe.jpg" width="100%" %}
 
-{% include section.html %}
+## Email
 
-{% capture col1 %}
+<style type="text/css">
+   span.codedirection { unicode-bidi:bidi-override; direction: rtl; }
+</style>
+<span class="codedirection">ude.dmu.sc@bor</span>
+{:.center}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+## Phone
 
-{% endcapture %}
+[(301) 405-7269](tel:+1-301-405-7269)
+{:.center}
 
-{% capture col2 %}
+## Address
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+{% comment %}
+Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly address so people can find their way to you easily.
+{% endcomment %}
 
-{% endcapture %}
+3220 Brendan Iribe Center for Computer Science and Engineering
+University of Maryland
+College Park, MD 20740
+{:.center}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Brendan+Iribe+Center+for+Computer+Science+and+Engineering/@38.9890953,-76.9387086,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7e9e636ed11:0x9aaf14503032f4a!8m2!3d38.9890953!4d-76.9365146)
+{:.center}

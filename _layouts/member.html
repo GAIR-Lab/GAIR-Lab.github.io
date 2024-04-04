@@ -1,51 +1,69 @@
 ---
+# inherits from default layout and builds on top of it
+# this file's contents get inserted into default.html's content
 layout: default
 ---
 
-{% capture floatcontent %}
+<h1>{{ page.title }}</h1>
 
-{% include portrait.html lookup=page.slug %}
+{% include figure.html image=page.image %}
 
-<div>
-  {% for link in page.links %}
-    {% assign key = link[0] %}
-    {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
-  {% endfor %}
-</div>
-
+{% capture html %}
+{% include role.html type=page.role text=true %}
 {% endcapture %}
 
-{% include float.html content=floatcontent %}
+{% include centerer.html html=html %}
+
+{% capture html %}
+{% if page.website %}
+{% include social-link.html type="website" link=page.website %}
+{% endif %}
+{% if page.email %}
+{% include social-link.html type="email" link=page.email %}
+{% endif %}
+{% if page.google %}
+{% include social-link.html type="google" link=page.google %}
+{% endif %}
+{% if page.github %}
+{% include social-link.html type="github" link=page.github %}
+{% endif %}
+{% if page.twitter %}
+{% include social-link.html type="twitter" link=page.twitter %}
+{% endif %}
+{% if page.instagram %}
+{% include social-link.html type="instagram" link=page.instagram %}
+{% endif %}
+{% if page.youtube %}
+{% include social-link.html type="youtube" link=page.youtube %}
+{% endif %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
 
 {{ content }}
 
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
+{% assign names = "" | split: ',' %}
 
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
+{% if page.search.first %}
+{% assign names = names | concat: page.search %}
+{% elsif page.search %}
+{% assign names = names | push: page.search %}
+{% elsif page.title %}
+{% assign names = names | push: page.title %}
+{% endif %}
 
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
+{% capture search %}
+{% for name in names %}"{{ name }}" {% endfor %}
+{% endcapture %}
 
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
+{% assign search =  search | strip | prepend: "/research/?search=" %}
 
-<!--
-<p class="center">
-  <a href="{{ search | relative_url }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
+{% capture text %}
+{{ page.title }}'s papers
+{% endcapture %}
+
+{% capture html %}
+{% include big-link.html icon="fas fa-book-open" link=search text=text %}
+{% endcapture %}
+
+{% include centerer.html html=html %}

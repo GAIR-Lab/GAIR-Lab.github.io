@@ -1,94 +1,20 @@
 ---
+title: Home
 ---
 
-# Lab Website Template
+# <i class="fas fa-flask"></i>Home
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+The COMBINE lab was created in the fall of 2014, when [Rob Patro](https://combine-lab.github.io/members/rob-patro.html) joined the [Department of Computer Science at Stony Brook University](https://www.cs.stonybrook.edu/).  In 2019, the lab moved to the [Department of Computer Science at the University of Maryland](https://www.cs.umd.edu/).  Our research interests span many areas of computational / algorithmic genomics, but our core focus is on the development of algorithms, data structures, and statistical inference methods for analyzing high-throughput sequencing data.
 
-{% include section.html %}
+### Research Interests
 
-## Highlights
+The research interests of our lab broadly span many areas of computational biology and bioinformatics.  Some of our main areas of interest include:
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+  * Algorithms for high-throughput transcriptomics (RNA-seq)
+    * assembly, quantification, *de novo* analysis, differential expression
+    * gene expression analysis of single-cell sequencing data (specifically, single-cell RNA-seq)
+  * Data structures for indexing genomes and raw genomic data
+    * data structures for building, indexing and querying one or more reference genomes
+    * data structures for indexing collections of tens of thousands of raw sequencing experiments
+  * Applications of approximate and data-driven representations and data structures in bioinformatics

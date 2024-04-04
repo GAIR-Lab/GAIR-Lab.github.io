@@ -1,21 +1,16 @@
 ---
 title: Blog
-nav:
-  order: 4
-  tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# <i class="fas fa-feather-alt"></i>Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
+## Older wordpress blogs
 
-{% include search-box.html %}
+Older blog posts can be found on the [wordpress site](http://robpatro.com/blog/).
 
-{% include tags.html tags=site.tags %}
+## Blog List
 
-{% include search-info.html %}
+{% include blog-list.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include centerer.html html=html %}

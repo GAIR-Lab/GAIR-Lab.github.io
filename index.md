@@ -1,22 +1,94 @@
 ---
-title: Home
 ---
 
-# <i class="fas fa-flask"></i>Home
+# Lab Website Template
 
+[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
+Spend less time worrying about managing a website and citations, and more time running your lab.
 
-The home page of the Laboratory for Generative AI Solutions for Information Retrieval Applications (GAIR 🍀) at the School of Computing Science, University of Glasgow. GAIR-Lab is led by  [Prof. Joemon Jose](https://www.gla.ac.uk/schools/computing/staff/joemonjose/).
+{%
+  include button.html
+  type="docs"
+  link="https://greene-lab.gitbook.io/lab-website-template-docs"
+%}
+{%
+  include button.html
+  type="github"
+  text="On GitHub"
+  link="greenelab/lab-website-template"
+%}
 
-Our lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
+{% include section.html %}
 
-Please check-out our latest publications:
-* [IISAN](https://arxiv.org/abs/2404.02059) Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M Jose; IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT; In SIGIR 2024
+## Highlights
 
-* [LLMRec](https://arxiv.org/abs/2403.16948)
-* [CFIR](https://arxiv.org/abs/2402.15276)
+{% capture text %}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-### Research Interests
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
-We investigate intelligent solutions to information problems, including: information retrieval/recommendations, multi-modal retrieval/recommendations
+{% endcapture %}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}

@@ -5,7 +5,7 @@ search:
   - R Patro
 role: pi
 group: current
-image: images/rob.jpg
+#image: images/rob.jpg
 email: rob@cs.umd.edu
 twitter: nomad421
 github: rob-p

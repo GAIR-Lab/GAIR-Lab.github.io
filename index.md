@@ -19,10 +19,6 @@ Please check-out our latest publications:
 
 The research interests of our lab broadly span many areas of computational biology and bioinformatics.  Some of our main areas of interest include:
 
-  * Algorithms for high-throughput transcriptomics (RNA-seq)
-    * assembly, quantification, *de novo* analysis, differential expression
-    * gene expression analysis of single-cell sequencing data (specifically, single-cell RNA-seq)
-  * Data structures for indexing genomes and raw genomic data
-    * data structures for building, indexing and querying one or more reference genomes
-    * data structures for indexing collections of tens of thousands of raw sequencing experiments
-  * Applications of approximate and data-driven representations and data structures in bioinformatics
+* Information Retrieval/Recommendation/Multimedia
+* Multimodal Recommendation
+* Large Generative Models

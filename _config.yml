@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. # description that will show under search engine results
-      background: images/test-tube.jpg # background image in header and footer
+      background: images/socs.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:

@@ -4,7 +4,7 @@
 An easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
 
-[**⭐ See the demo ⭐**](https://greenelab.github.io/lab-website-template/)
+[**⭐ See the demo ⭐**](https://GAIR-Lab.github.io/lab-website-template/)
 
 ## Target audience
 

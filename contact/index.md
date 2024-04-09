@@ -17,7 +17,7 @@ Our group is located on the second floor of the [Sir Alwyn Williams Building](ht
 
 ## <i class="fas fa-envelope fa-sm"></i>Email
 
-[mangul@usc.edu](joemon.jose@glasgow.ac.uk)  
+[joemon.jose@glasgow.ac.uk](joemon.jose@glasgow.ac.uk)  
 {:.center}
 <!-- 
 ## <i class="fas fa-map-marked fa-sm"></i>Location

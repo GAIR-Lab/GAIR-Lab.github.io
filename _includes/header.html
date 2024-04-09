@@ -8,7 +8,8 @@
     data-delay="400"
   >
     <span class="logo">
-      {%- include logo.svg -%}
+      <!-- {%- include logo.svg -%} -->
+      <img src="{{ "images/logo.png" | relative_url }}" />
       <!-- <img src="{{ "images/logo.png" | relative_url }}" /> -->
     </span>
     <!-- <span class="logo_text">{{ site.title }}</span> -->
@@ -67,7 +68,7 @@
     <a
       href="{{ 'gallery' | relative_url }}"
       class="nav_link"
-      data-tooltip="Photos of Mangul Lab"
+      data-tooltip="Photos of GAIR Lab"
       data-placement="bottom"
       data-delay="400"
       >Gallery</a
@@ -75,7 +76,7 @@
     <a
       href="{{ 'funding' | relative_url }}"
       class="nav_link"
-      data-tooltip="Funding of The Mangul Lab"
+      data-tooltip="Funding of The GAIR Lab"
       data-placement="bottom"
       data-delay="400"
       >Funding</a

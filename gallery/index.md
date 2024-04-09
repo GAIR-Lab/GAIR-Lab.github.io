@@ -11,7 +11,7 @@ This tab contains photos of GAIR Lab.
 
 {%
   include gallery.html
-  image2="images/background/uofg.jpeg"
+  image2="images/backgrounds/uofg.jpeg"
   image3="images/glasgow1.png"
   image4="images/glasgow2.png"
   image5="images/glasgow3.png"

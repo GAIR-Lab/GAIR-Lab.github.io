@@ -94,11 +94,11 @@ header {
   &[data-fullscreen="true"] {
     justify-content: center;
     min-height: 100vh;
-    animation: greyscale 1s ease-in;
-
+    animation: ease-in;
+    // greyscale 1s
     .logo > * {
       height: 200px;
-      animation: logo_zoom 3s ease forwards;
+      animation: logo_zoom 2s ease forwards;
 
       @keyframes logo_zoom {
         0% {

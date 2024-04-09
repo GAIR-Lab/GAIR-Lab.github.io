@@ -1,6 +1,6 @@
 ---
 
-title: Junchen Fu
+title: Junchen Fu (PhD)
 search:
   - Junchen
   - Fu

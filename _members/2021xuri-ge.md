@@ -1,6 +1,6 @@
 ---
 
-title: Xuri Ge
+title: Xuri Ge (PhD)
 search:
   - Xuri
   - Ge

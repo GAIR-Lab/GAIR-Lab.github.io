@@ -1,6 +1,6 @@
 ---
 
-title: Kaiwen Zheng (Ph.D)
+title: Kaiwen Zheng (PhD)
 search:
   - Kaiwen
   - Zheng

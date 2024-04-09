@@ -32,7 +32,7 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 
 <!-- section break -->
 
-We are actively recruiting highly motivated graduate students and postdocs with a capable computational background. The Mangul Lab is committed to ensuring an inclusive and supportive environment regardless of age, gender, sexual orientation, disability, race, ethnicity, religion, nationality, or socioeconomic background.
+We are now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
 {%
   include big-link.html
@@ -92,10 +92,10 @@ Our work is made possible by funding from several organizations. -->
 %} -->
 
 <!-- section break -->
-
+<!-- 
 {%
   include figure.html
   image="images/team/group.jpg"
   caption="Mangul Lab Research Group"
   width="100%" 
-%}
+%} -->

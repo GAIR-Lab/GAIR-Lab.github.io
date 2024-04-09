@@ -28,7 +28,7 @@ redirect_from: /publications
   include big-link.html
   icon="fab fa-google"
   text="More on Google Scholar"
-  link="https://scholar.google.com/citations?user=gMGrvhsAAAAJ&hl=en"
+  link="https://scholar.google.com/citations?user=7t8ha2sAAAAJ&hl=en&oi=ao"
 %}
 {% endcapture %}
 

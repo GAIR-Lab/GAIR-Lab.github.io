@@ -1,17 +1,17 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: The Mangul Lab # title of site, used in tab name and elsewhere
-email: serghei.mangul@gmail.com # default email
-google: Serghei Mangul # default name to search on Google Scholar
-github: Mangul-Lab-USC # default GitHub user/org, without the @
+title: GAIR-Lab # title of site, used in tab name and elsewhere
+email: Joemon.Jose@glasgow.ac.uk # default email
+google: Joemon Jose # default name to search on Google Scholar
+github: GAIR-Lab # default GitHub user/org, without the @
 twitter: MangulLab # default Twitter handle, without the @
-instagram: "" # default Instagram handle, without the @
+linkedin: joemon-jose-1102285
+<!-- instagram: "" # default Instagram handle, without the @
 youtube: "" # default YouTube channel handle
-
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: ""
+baseurl: ""  -->
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:
@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       description: Where Genome gets compiled # description that will show under search engine results
-      background: images/backgrounds/laptop-paper.jpg # background image in header and footer
+      background: images/backgrounds/uofg.jpeg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:

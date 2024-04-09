@@ -1,6 +1,6 @@
 ---
 title: GAIR-Lab: Laboratory for Generative AI solutions for Information Retrieval Applications
----
+ 
 
 
 # GAIR-Lab at the School of Computing Science at the University of Glasgow

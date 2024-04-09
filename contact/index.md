@@ -1,6 +1,6 @@
 ---
 title: Contact
-background: images/backgrounds/califo.jpg
+background: images/backgrounds/uofg.jpeg
 ---
 
 # <i class="fas fa-envelope"></i>Contact

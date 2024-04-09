@@ -1,5 +1,6 @@
 ---
-title: GAIR-Lab: Laboratory for Generative AI solutions for Information Retrieval Applications
+title: Laboratory for Generative AI solutions for Information Retrieval Applications (GAIR-Lab)
+---
  
 
 

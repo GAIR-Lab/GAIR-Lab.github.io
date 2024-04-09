@@ -8,7 +8,7 @@ image: images/team/joemonjose.png
 role: pi
 
 <!-- website: N/A -->
-email: serghei.mangul@gmail.com
+email: Joemon.Jose@glasgow.ac.uk
 <!-- google:  -->
 github: GAIR-Lab
 twitter: joemonj

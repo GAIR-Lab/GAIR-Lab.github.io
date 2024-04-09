@@ -4,14 +4,17 @@ title: Junchen Fu
 search:
   - Junchen
   - Fu
-image: images/team/diala-alhousari.jpg
+image: images/team/junchen-fu.jpg
 
 role: phd
 
-email: alhousar@usc.edu
-github: Dialaalhousari
-twitter: Lalousheeee
+email: j.fu.3@research.gla.ac.uk
+github: junchen-fu
+twitter: ron_junchen_fu
 
 ---
 
-Diala is a graduate student pursuing her Ph.D. in Pharmaceutical and Translational Sciences at the University of Southern California’s School of Pharmacy. She is co-advised by Dr. Serghei Mangul and Dr. Bangyan Stiles. Prior to Ph.D.study, Diala earned her bachelor’s degree in biochemistry at the University of Southern California in May 2022. During her undergraduate research career, she worked with Dr. Carolyn Phillip where she investigated how RNA silencing pathways modulate gene expression and maintain genome integrity. During her undergrad, she also worked with Dr. Barry Thompson at USC, designing an organic polymer for photovoltaic cells. Currently, as part of her Ph.D., she is interested in studying how adaptive immune system play a role in liver cancer.  Outside of school and research, Diala likes reading books, trying new restaurants, and traveling.
+I am a first-year PhD student advised by Prof. [Joemon Jose](https://www.gla.ac.uk/schools/computing/staff/joemonjose/) at [University of Glasgow](https://www.gla.ac.uk/). Before this, I was a Research Assistant at [Westlake University](https://en.westlake.edu.cn/), focusing on Modality-based Recommender Systems. My current research interests are in:
+
+- Efficiency in multimodal recommendation and information retrieval systems
+- Multimodal Generative Models

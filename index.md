@@ -38,7 +38,7 @@ We believe in generative AI solutions can represent the future IR.
 {% endcapture %}
 {%
   include feature.html
-  image="images/glasgow2.jpg"
+  image="images/glasgow2.png"
   link="resources"
   heading="Our Resources"
   text=text
@@ -53,7 +53,7 @@ We are a team of enthusiastic researchers aimed to develop novel approaches, ben
 {% endcapture %}
 {%
   include feature.html
-  image="images/glasgow3.jpg"
+  image="images/glasgow3.png"
   link="team"
   heading="Our team"
   text=text

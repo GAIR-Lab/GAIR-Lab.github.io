@@ -1,9 +1,9 @@
 ---
-title: Joemon M. Jose
+title: Joemon M. Jose (Professor)
 search:
   - Joemon 
   - Jose
-image: images/team/joemonjose.png
+image: images/team/joemon-jose.jpg
 
 role: pi
 

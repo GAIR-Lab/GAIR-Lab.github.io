@@ -7,11 +7,11 @@ google: Joemon Jose # default name to search on Google Scholar
 github: GAIR-Lab # default GitHub user/org, without the @
 twitter: MangulLab # default Twitter handle, without the @
 linkedin: joemon-jose-1102285
-<!-- instagram: "" # default Instagram handle, without the @
+instagram: "" # default Instagram handle, without the @
 youtube: "" # default YouTube channel handle
 # base directory where site is hosted
 # set to "" if hosting at a custom domain, eg yoursite.com
-baseurl: ""  -->
+baseurl: "" 
 
 # default front matter parameters for markdown files
 # defaults can be overridden on a particular page, eg:

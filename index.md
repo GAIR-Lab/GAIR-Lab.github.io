@@ -16,21 +16,22 @@ Mangul Lab is part of the Titus Department of Clinical Pharmacy at [USC Alfred E
 <!-- section break -->
 
 {% capture text %}
-Computational data-driven research focuses on developing and applying computational methods across various types of omics datasets. Such research is performed in a new type of laboratory, often called a dry lab. Our team designs, develops and applies novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
+We investigate intelligent solutions to information problems, including: information retrieval/recommendations, multi-modal retrieval/recommendations.
+
 
 [Our Publications &nbsp;→](research)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/image_1.jpg"
+  image="images/glasgow1.png"
   link="research"
-  heading="Computational data-driven research"
+  heading="University of Glasgow -- Winter"
   text=text
 %}
 
 {% capture text %}
-We believe in data analysis transparency, effective sharing, reproducibility, software usability, and archival stability to foster a sustainable data science ecosystem in biomedical research.
+We believe in generative AI solutions can represent the future IR.
 
 [See our GitHub repository &nbsp;→](https://github.com/Mangul-Lab-USC/)
 {:.center}
@@ -39,12 +40,12 @@ We believe in data analysis transparency, effective sharing, reproducibility, so
   include feature.html
   image="images/image_2.jpg"
   link="resources"
-  heading="Rigor and reproducibility in biomedical research"
+  heading="University of Glasgow -- Summer"
   text=text
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers aimed to combine open omics data with robust bioinformatics methods to enable novel biological discoveries. We are committed to ensuring an inclusive and supportive environment. We also believe in empowering the members of our team with necessary bioinformatics training and support, allowing them to make important contributions to the fields of biomedical research.
+We are a team of enthusiastic researchers aimed to develop novel approaches, benchmark, evaluations and datasets for generative AI solutions for future IR applications.
 
 
 [Meet our team &nbsp;→](team)
@@ -52,7 +53,7 @@ We are a team of enthusiastic researchers aimed to combine open omics data with 
 {% endcapture %}
 {%
   include feature.html
-  image="images/team/IMG-3719.jpg"
+  image="images/glasgow3.jpg"
   link="team"
   heading="Our team"
   text=text

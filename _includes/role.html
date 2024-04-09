@@ -1,0 +1,74 @@
+{%- assign icon = "fas fa-user" -%}
+{%- assign text = "Default Role" -%}
+
+{%- if include.type == "pi" -%}
+{%- assign icon = "fas fa-microscope" -%}
+{%- assign text = "Principal Investigator" -%}
+{%- endif -%}
+
+{%- if include.type == "postdoc" -%}
+{%- assign icon = "fas fa-glasses" -%}
+{%- assign text = "Postdoctoral Researcher" -%}
+{%- endif -%}
+
+{%- if include.type == "bioinformatics-analyst" -%}
+{%- assign icon = "fas fa-laptop-code" -%}
+{%- assign text = "Bioinformatics Analyst" -%}
+{%- endif -%}
+
+{%- if include.type == "phd" -%}
+{%- assign icon = "fas fa-graduation-cap" -%}
+{%- assign text = "PhD Student" -%}
+{%- endif -%}
+
+{%- if include.type == "masters" -%}
+{%- assign icon = "fas fa-user-graduate" -%}
+{%- assign text = "Master's Student" -%}
+{%- endif -%}
+
+{%- if include.type == "pharmd" -%}
+{%- assign icon = "fas fa-mortar-pestle" -%}
+{%- assign text = "PharmD Student" -%}
+{%- endif -%}
+
+{%- if include.type == "undergrad" -%}
+{%- assign icon = "fas fa-user" -%}
+{%- assign text = "Undergraduate Student" -%}
+{%- endif -%}
+
+{%- if include.type == "highschool" -%}
+{%- assign icon = "fas fa-calculator" -%}
+{%- assign text = "High School Student" -%}
+{%- endif -%}
+
+{%- if include.type == "programmer" -%}
+{%- assign icon = "fas fa-code" -%}
+{%- assign text = "Software Engineer" -%}
+{%- endif -%}
+
+{%- if include.type == "affiliate" -%}
+{%- assign icon = "fas fa-user" -%}
+{%- assign text = "Affiliated Member" -%}
+{%- endif -%}
+
+{%- if include.type == "mascot" -%}
+{%- assign icon = "fas fa-dog" -%}
+{%- assign text = "Mascot" -%}
+{%- endif -%}
+
+{%- if include.text -%}
+{%- else -%}
+{%- assign tooltip = text -%}
+{%- endif -%}
+
+{%- comment -%}
+To add more options for icons, see:
+https://fontawesome.com/icons?d=gallery&q=icon&m=free
+{%- endcomment -%}
+
+<span href="{{ link }}" class="role" data-tooltip="{{ tooltip }}" aria-label="{{ tooltip }}">
+  <i class="{{ icon }} {%- if include.large -%}fa-lg{%- endif -%}"></i>
+  {%- if include.text -%}
+  <span class="role_text">{{- text -}}</span>
+  {%- endif -%}
+</span>

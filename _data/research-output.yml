@@ -1,12 +1,13 @@
-- title: 'Early detection of emerging viral variants through analysis of community structure of coordinated substitution networks'
+- title: 'IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT'
   authors:
-  - Fatemeh Mohebbi
-  - Alex Zelikovsky
-  - Serghei Mangul
-  - Gerardo Chowell
-  - Pavel Skums
-  publisher: Nature Communications
+  - Junchen Fu
+  - Xuri Ge
+  - Xin Xin
+  - Alexandros Karatzgolou
+  - Ioannis Arapakis
+  - Jie Wang
+  - Joemon M Jose
+  publisher: Accpeted by SIGIR2024
   date: '2024-04-02'
-  link: https://doi.org/10.1038/s41467-024-47304-6
-  id: doi:10.1038/s41467-024-47304-6
-  image: images/research/Early-detection-of-emerging-viral-variants-through-analysis-of-community-structure-of-coordinated-substitution-networks.jpg
+  link: https://arxiv.org/abs/2404.02059
+  image: images/research/IISAN.png

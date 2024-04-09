@@ -1,6 +1,6 @@
 ---
 
-title: Jie Wang (Ph.D)
+title: Jie Wang (PhD)
 search:
   - Jie
   - Wang

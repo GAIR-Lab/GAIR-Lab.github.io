@@ -1,6 +1,6 @@
 ---
 
-title: Oliver Warke (Ph.D)
+title: Oliver Warke (PhD)
 search:
   - Oliver
   - Warke

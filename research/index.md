@@ -18,12 +18,12 @@ redirect_from: /publications
 ## More
 
 {% capture html %}
-{%
+<!-- {%
   include big-link.html
   icon="fas fa-book-open"
   text="More on PubMed"
   link="https://pubmed.ncbi.nlm.nih.gov/?term=Mangul+S&cauthor_id=32183840"
-%}
+%} -->
 {%
   include big-link.html
   icon="fab fa-google"

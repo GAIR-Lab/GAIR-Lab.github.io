@@ -4,7 +4,7 @@ title: Xuri Ge
 search:
   - Xuri
   - Ge
-image: images/team/xuri-ge.jpg
+image: images/team/Xuri-Ge.jpg
 
 role: phd
 

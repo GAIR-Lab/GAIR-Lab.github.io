@@ -21,5 +21,6 @@ More recently, my main research attention in :
 - Computer Vision
 - Natural Language Processing 
 - Multimedia
+  
 mainly including cross-modal retrieval, facial action unit detection, image captioning, medical image analysis, etc.
  

@@ -19,7 +19,7 @@ Our group is located on the second floor of the [Sir Alwyn Williams Building](ht
 
 [mangul@usc.edu](joemon.jose@glasgow.ac.uk)  
 {:.center}
-
+<!-- 
 ## <i class="fas fa-map-marked fa-sm"></i>Location
 
 <div align="center"> 
@@ -31,7 +31,7 @@ Our group is located on the second floor of the [Sir Alwyn Williams Building](ht
   loading="lazy" 
   referrerpolicy="no-referrer-when-downgrade">
   </iframe> 
-</div>
+</div> -->
 
 {:.center}
 <!-- 

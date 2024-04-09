@@ -5,7 +5,7 @@ title: News
 # <i class="fas fa-tools"></i>News
 
 <p style="text-align: center;">
-This page includes our lab news in which Mangul Lab was featured.  
+This page includes our lab news in which GAIR Lab was featured.  
 </p>
 
 <!-- section break -->

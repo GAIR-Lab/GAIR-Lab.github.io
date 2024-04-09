@@ -1,9 +1,9 @@
 ---
 
-title: Diala Alhousari
+title: Junchen Fu
 search:
-  - Diala
-  - Alhousari
+  - Junchen
+  - Fu
 image: images/team/diala-alhousari.jpg
 
 role: phd

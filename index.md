@@ -26,7 +26,7 @@ We investigate intelligent solutions to information problems, including: informa
   include feature.html
   image="images/glasgow1.png"
   link="research"
-  heading="University of Glasgow -- Winter"
+  heading="Our Research"
   text=text
 %}
 
@@ -40,7 +40,7 @@ We believe in generative AI solutions can represent the future IR.
   include feature.html
   image="images/glasgow2.jpg"
   link="resources"
-  heading="University of Glasgow -- Summer"
+  heading="Our Resources"
   text=text
 %}
 

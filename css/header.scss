@@ -97,8 +97,8 @@ header {
     animation: greyscale 1s ease-in;
 
     .logo > * {
-      height: 220px;
-      animation: logo_zoom 2s ease forwards;
+      height: 200px;
+      animation: logo_zoom 3s ease forwards;
 
       @keyframes logo_zoom {
         0% {

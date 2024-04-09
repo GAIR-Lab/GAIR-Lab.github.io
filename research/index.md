@@ -40,7 +40,7 @@ The citations on this page were generated automatically from just identifiers us
 
 {%
   include figure.html
-  image="images/backgrounds/califo.jpg"
-  caption="California (CA), USA"
+  image="images/glasgow1.png"
+  caption="University of Glasgow, Uk"
   width="100%" 
 %}

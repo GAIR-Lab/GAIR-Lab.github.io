@@ -33,12 +33,12 @@ We investigate intelligent solutions to information problems, including: informa
 {% capture text %}
 We believe in generative AI solutions can represent the future IR.
 
-[See our GitHub repository &nbsp;→](https://github.com/Mangul-Lab-USC/)
+[See our GitHub repository &nbsp;→](https://github.com/GAIR-Lab/)
 {:.center}
 {% endcapture %}
 {%
   include feature.html
-  image="images/image_2.jpg"
+  image="images/glasgow2.jpg"
   link="resources"
   heading="University of Glasgow -- Summer"
   text=text

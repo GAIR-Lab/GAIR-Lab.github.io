@@ -1,5 +1,5 @@
 <h1 align="center">GAIR-Lab</h1>
-<p align="center"><img src="/_includes/logo.png" alt="Lab Website Template"></p>
+<p align="center"><img src="/images/logo.png" alt="Lab Website Template"></p>
 
 
 The home page of the Laboratory for Generative AI Solutions for Information Retrieval Applications (GAIR 🍀) at the School of Computing Science, University of Glasgow. GAIR-Lab is led by Prof. Joemon Jose.

@@ -40,7 +40,7 @@
 {%- if include.type == "twitter" -%}
 {%- assign icon = "fab fa-twitter" -%}
 {%- assign text = "Twitter" -%}
-{%- assign link = include.link | default: site.twitter | default: "" | prepend: "https://twitter.com/" -%}
+{%- assign link = include.link | default: site.twitter | default: "https://twitter.com/joemonj" | prepend: "https://twitter.com/" -%}
 {%- endif -%}
 
 {%- if include.type == "instagram" -%}

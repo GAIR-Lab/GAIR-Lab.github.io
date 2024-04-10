@@ -7,7 +7,31 @@
   - Ioannis Arapakis
   - Jie Wang
   - Joemon M Jose
-  publisher: Accpeted by SIGIR2024
+  publisher: Accpeted by SIGIR2024 as a full paper
   date: '2024-04-02'
   link: https://arxiv.org/abs/2404.02059
   image: images/research/IISAN.png
+
+- title: 'Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Alexandros Karatzgolou
+  - Joemon M. Jose
+  publisher: Accpeted by SIGIR2024
+  date: '2024-03-25'
+  link: https://arxiv.org/abs/2403.16948
+  image: images/research/SSRL4R.png
+
+- title: 'CFIR: Fast and Effective Long-Text To Image Retrieval for Large Corpora'
+  authors:
+  - Zijun Long
+  - Xuri Ge
+  - Richard Mccreadie
+  - Alexandros Karatzgolou
+  - Joemon M. Jose
+  publisher: Accpeted by SIGIR2024 as a full paper
+  date: '2024-04-02'
+  link: https://arxiv.org/abs/2402.15276
+  image: images/research/CFIR.png

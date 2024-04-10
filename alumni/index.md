@@ -9,7 +9,7 @@ redirect_from:
 ## Alumni
 
 <p style="text-align: center;">
-These are former lab alumni who have transitioned to various sectors, including graduate schools, industry roles, further educational programs, new career opportunities, or other pursuits.
+These are former lab alumni who have gone on to make significant contributions in their respective fields.
 </p>
 
 {% capture html %}

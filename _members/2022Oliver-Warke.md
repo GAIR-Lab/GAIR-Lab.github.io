@@ -4,11 +4,11 @@ title: Oliver Warke (PhD)
 search:
   - Oliver
   - Warke
-image: images/team/oliver-warke.jpg
+image: images/team/oliver.jpg
 
 role: phd
 
-email:  
+email: o.warke.1@research.gla.ac.uk 
 github:  
 twitter:  
 

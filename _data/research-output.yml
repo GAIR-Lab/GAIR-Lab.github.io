@@ -31,6 +31,55 @@
   - Richard Mccreadie
   - Joemon M. Jose
   publisher: Accpeted by SIGIR2024 as a full paper
-  date: '2024-02-23'
+  date: '2024-03-23'
   link: https://arxiv.org/abs/2402.15276
   image: images/research/CFIR.png
+
+  - title: '3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting'
+  authors:
+  - Xuri Ge
+  - Songpei Xu
+  - Fuhai Chen
+  - Jie Wang
+  - Guoxin Wang
+  - Shan An
+  - Joemon M. Jose
+  publisher: Information Processing & Management (IP&M)
+  date: '2024-03-22'
+  link: https://www.sciencedirect.com/science/article/pii/S0306457324000761?via%3Dihub
+  image: images/research/SHNet.png
+
+  - title: 'Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models'
+  authors:
+  - Jie Wang
+  - Kanha Bansal
+  - Ioannis Arapakis
+  - Xuri Ge
+  - Joemon M. Jose
+  publisher: European Conference on Information Retrieval (ECIR)
+  date: '2024-03-20'
+  link: https://link.springer.com/chapter/10.1007/978-3-031-56027-9_19
+  image: images/research/ELCR.png
+
+  - title: 'ALGRNet: Multi-Relational Adaptive Facial Action Unit Modelling for Face Representation and Relevant Recognitions'
+  authors:
+  - Xuri Ge
+  - Joemon M. Jose
+  - Pengcheng Wang
+  - Arunachalam Iyer
+  - Xiao Liu
+  - Hu Han
+  publisher: IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)
+  date: '2023-08-21'
+  link: https://ieeexplore.ieee.org/abstract/document/10225375
+  image: images/research/ALGRNet.png
+
+  - title: 'Utilising Twitter Metadata for Hate Classification'
+  authors:
+  - Oliver Warke
+  - Joemon M. Jose
+  - Jan Breitsohl
+  publisher: European Conference on Information Retrieval (ECIR)
+  date: '2023-03-27'
+  link: https://link.springer.com/chapter/10.1007/978-3-031-28238-6_59
+  image: images/research/UTMHC.png

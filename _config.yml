@@ -2,6 +2,7 @@
 
 # site-wide variables
 title: GAIR-Lab # title of site, used in tab name and elsewhere
+titlefull: LABORATORY FOR GENERATIVE AI SOLUTIONS FOR INFORMATION RETRIEVAL APPLICATIONS (GAIR-LAB)
 email: Joemon.Jose@glasgow.ac.uk # default email
 google: Joemon Jose # default name to search on Google Scholar
 github: GAIR-Lab # default GitHub user/org, without the @

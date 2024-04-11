@@ -24,7 +24,7 @@ We investigate intelligent solutions to information retrieval problems, includin
 {% endcapture %}
 {%
   include feature.html
-  image="images/glasgow1.png"
+  image="images/informationretrieval.jpg"
   link="research"
   heading="Information Retrieval"
   text=text
@@ -33,7 +33,7 @@ We investigate intelligent solutions to information retrieval problems, includin
 {% capture text %}
 We investigate intelligent solutions to social media analytics, including multi-modal sentiment analysis, event detection from social streams, expression recognition, etc.
 
-[See our GitHub repository &nbsp;→](research)
+[Our Publications &nbsp;→](research)
 {:.center}
 {% endcapture %}
 {%

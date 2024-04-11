@@ -55,7 +55,7 @@ GAIR Lab is now recruiting self-motivated Ph.D. students with strong AI backgrou
 {% endcapture %}
 {%
   include feature.html
-  image="images/glasgow3.png"
+  image="images/gair_party.jpg"
   link="team"
   heading="Our team"
   text=text

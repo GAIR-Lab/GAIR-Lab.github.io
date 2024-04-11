@@ -18,7 +18,7 @@ This tab contains photos of GAIR-Lab and the University of Glasgow in Glasgow, U
   image6="images/glasgow3.png"
   image7="images/uofg_view1.jpg"
   image8="images/gair_party.jpg"
-  image8="images/Lab_photo_1.jpg"
+  image9="images/Lab_photo_1.jpg"
 %}
 
 Some photos are from social media.

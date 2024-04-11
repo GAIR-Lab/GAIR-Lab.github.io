@@ -26,6 +26,8 @@ header {
     }
 
     .logo_text {
+      position: absolute;
+      top: 10px;
       font-family: $sans;
       font-size: 1.5rem;
       margin: 0 10px;

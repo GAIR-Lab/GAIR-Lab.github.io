@@ -22,6 +22,14 @@
     from full-width to very narrow. Adjust the $tablet and $phone cutoff points
     in /css/variables.scss until the header elements wrap at the right time.
     {%- endcomment -%}
+     <a
+      href="{{ '/' | relative_url }}"
+      class="nav_link"
+      data-tooltip="Home"
+      data-placement="top"
+      data-delay="400"
+      >GAIR</a
+    >
 
     <a
       href="{{ 'research' | relative_url }}"

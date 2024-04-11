@@ -16,6 +16,29 @@ header {
   box-shadow: $shadow;
   z-index: 1;
 
+  .title { // New class for the title
+    position: absolute;
+    top: 10px; // Adjust as necessary to align the title at the top
+    left: 50%;
+    transform: translateX(-50%); // This centers the title
+    font-size: 1.2rem; // Set the font size as needed
+    padding: 10px;
+    background: $primary-color; // Use a variable or color for the background if needed
+    color: $white; // Set the color of the title text if needed
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.2); // Optional: Adds a subtle shadow for better visibility
+    
+    @media (max-width: $tablet) {
+      top: 5px; // Adjust for tablet
+    }
+    
+    @media (max-width: $phone) {
+      top: 0; // Adjust for phone
+      position: relative; // Change position for mobile view
+      left: auto;
+      transform: none;
+    }
+  }
+
   .logo_row {
     @include inline-flex-center;
 

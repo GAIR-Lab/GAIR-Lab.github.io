@@ -4,7 +4,7 @@ title: Laboratory for Generative AI solutions for Information Retrieval Applicat
  
 
 
-# Laboratory for Generative AI solutions for Information Retrieval applications (GAIR-Lab)
+# GAIR Lab
 
 The homepage of the Laboratory for Generative AI Solutions for Information Retrieval Applications ([GAIR](https://gair-lab.github.io/) 🍀) at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/), [University of Glasgow](https://www.gla.ac.uk/). GAIR-Lab is led by  [Prof. Joemon Jose](https://www.gla.ac.uk/schools/computing/staff/joemonjose/).
 

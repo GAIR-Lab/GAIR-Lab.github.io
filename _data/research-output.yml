@@ -49,6 +49,18 @@
   link: https://www.sciencedirect.com/science/article/pii/S0306457324000761?via%3Dihub
   image: images/research/SHNet.png
 
+- title: 'MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Unit Detection'
+  authors:
+  - Xuri Ge
+  - Joemon M. Jose
+  - Songpei Xu
+  - Xiao Liu
+  - Hu Han
+  publisher: ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+  date: '2024-03-21'
+  link: https://dl.acm.org/doi/full/10.1145/3643863
+  image: images/research/MGRRNet.png
+
 - title: 'Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models'
   authors:
   - Jie Wang
@@ -57,7 +69,7 @@
   - Xuri Ge
   - Joemon M. Jose
   publisher: European Conference on Information Retrieval (ECIR)
-  date: '2024-03-20'
+  date: '2024-03-02'
   link: https://link.springer.com/chapter/10.1007/978-3-031-56027-9_19
 
 
@@ -83,3 +95,48 @@
   date: '2023-03-27'
   link: https://link.springer.com/chapter/10.1007/978-3-031-28238-6_59
 
+- title: 'Cross-modal semantic enhanced interaction for image-sentence retrieval'
+  authors:
+  - Xuri Ge
+  - Fuhai Chen
+  - Songpei Xu
+  - Fuxiang Tao
+  - Joemon M. Jose
+  publisher: Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV)
+  date: '2023-02-27'
+  link: https://openaccess.thecvf.com/content/WACV2023/html/Ge_Cross-Modal_Semantic_Enhanced_Interaction_for_Image-Sentence_Retrieval_WACV_2023_paper
+
+- title: 'Supervised advantage actor-critic for recommender systems'
+  authors:
+  - Xin Xin
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Joemon M. Jose
+  publisher: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)
+  date: '2022-02-11'
+  link: https://dl.acm.org/doi/abs/10.1145/3488560.3498494
+
+- title: 'Local global relational network for facial action units recognition'
+  authors:
+  - Xuri Ge
+  - Pengcheng Wang
+  - Hu Han
+  - Joemon M. Jose
+  - Zhilong Ji
+  - Zhongqin Wu
+  - Xiao Liu
+  publisher: IEEE International Conference on Automatic Face and Gesture Recognition (FG)
+  date: '2021-12-15'
+  link: https://ieeexplore.ieee.org/abstract/document/9666961
+
+- title: 'Structured multi-modal feature embedding and alignment for image-sentence retrieval'
+  authors:
+  - Xuri Ge
+  - Fuhai Chen
+  - Joemon M. Jose
+  - Zhilong Ji
+  - Zhongqin Wu
+  - Xiao Liu
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)
+  date: '2021-10-15'
+  link: https://dl.acm.org/doi/pdf/10.1145/3474085.3475634

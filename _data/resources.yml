@@ -21,18 +21,18 @@
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 - title: SIGIR2024
   type: legacy
-  image: 
+  image: images/accept.jpg
   link: https://gair-lab.github.io/news/
   description: "Three full papers are accepted by SIGIR 2024!!!"
 
 - title: IP&M
   type: legacy
-  image: 
+  image: images/accept.jpg
   link: https://gair-lab.github.io/news/
   description: "One journal paper is accepted by Information Processing & Management!!!"
 
 - title: ECIR2024
   type: legacy
-  image: 
+  image: images/accept.jpg
   link: https://gair-lab.github.io/news/
   description: "Two papers are accepted by ECIR 2024!!!"

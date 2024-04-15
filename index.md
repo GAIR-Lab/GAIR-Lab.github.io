@@ -38,8 +38,8 @@ We investigate intelligent solutions to social media analytics, including multi-
 {% endcapture %}
 {%
   include feature.html
-  image="images/socialmedia.jpg"
-  link="resources"
+  image="images/social.png"
+  link="research"
   heading="Social Media Analytics"
   text=text
 %}

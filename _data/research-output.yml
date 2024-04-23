@@ -119,6 +119,19 @@
   link: https://dl.acm.org/doi/abs/10.1145/3488560.3498494
   image: images/paper_logo.png
 
+- title: 'Learning robust recommenders through cross-model agreement'
+  authors:
+  - Yu Wang
+  - Xin Xin
+  - Zaiqiang Meng
+  - Joemon M. Jose
+  - Fuli Feng
+  - Xiangnan He
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-11'
+  link: https://dl.acm.org/doi/pdf/10.1145/3485447.3512202
+  image: images/paper_logo.png
+
 - title: 'Local global relational network for facial action units recognition'
   authors:
   - Xuri Ge

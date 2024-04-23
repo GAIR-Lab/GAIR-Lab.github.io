@@ -158,3 +158,16 @@
   date: '2021-10-15'
   link: https://dl.acm.org/doi/pdf/10.1145/3474085.3475634
   image: images/paper_logo.png
+
+- title: 'One person, one model, one world: Learning continual user representation without forgetting'
+  authors:
+  - Fajie Yuan
+  - Guoxiao Zhang
+  - Alexandros Karatzoglou
+  - Joemon M. Jose
+  - Beibei Kong
+  - Yudong Li
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+  date: '2021-7-15'
+  link: https://dl.acm.org/doi/pdf/10.1145/3404835.3462884
+  image: images/paper_logo.png

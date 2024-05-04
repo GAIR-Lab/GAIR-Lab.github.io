@@ -18,7 +18,7 @@ These are former lab alumni who have gone on to make significant contributions i
 <h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
 <!-- {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %} -->
 
-<ol>
+<ol style="text-align: start; width: 85%;">
     <li>Dr. Tassos Tombros, Personalization of Web Searches through Ostension and Summarization (2002- 2003). Senior Lecturer, Queen Mary, University of London, UK.</li>
     <li>Dr. Xavier Hilaire, Context sensitive Information Retrieval (2006), Assistant Professor, INRIA (Group ESIEE), Paris, France.</li>
     <li>Dr. Jialie Shen, Music Information retrieval (2006-2007), Senior Lecturer, University of Northambria, UK.</li>

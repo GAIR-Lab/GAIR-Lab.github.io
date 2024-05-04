@@ -16,30 +16,31 @@ These are former lab alumni who have gone on to make significant contributions i
 
 {% include alumni-tabled.html role="pi" group="alum" mini="true" %}
 <h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
-{% include alumni-tabled.html role="postdoc" group="alum" mini="true" %}
-Dr. Tassos Tombros, Personalization of Web Searches through Ostension and Summarization (2002- 2003). Senior Lecturer, Queen Mary, University of London, UK.
-Dr. Xavier Hilaire, Context sensitive Information Retrieval (2006), Assistant Professor, INRIA (Group ESIEE), Paris, France.
-Dr. Jialie Shen, Music Information retrieval (2006-2007), Senior Lecturer, University of Northambria, UK.
-Dr. Jana Urban, Adaptive Multimedia Retrieval (2006- 2007), Google, Zurich, Switzerland.
-Mr. Nicholas Gildea, Research Programmer (August 2007 – July 2007), Industry, Glasgow.
-Dr. Thierry Urrutty, Multimedia Mining, (November 2007- December 2008), Assistant Professor, Universite de Poitiers - UFR Sciences, France.
-Dr. Hideo Joho– Multimodal Interaction and Adaptive Retrieval (August 2005-October 2009), University of Tsekuba, Japan.
-Dr. Punitha Swamy - Multimedia Retrieval (November 2006 – December 2010), IBM, India
-Dr. Martin Halvey - Adaptive Multimedia Retrieval (July 2007 – December 2009), Senior Lecturer, University of Strathclyde
-Dr. Reede Ren – Multimedia Mining and Retrieval (March 2007 –June 2010), University of Surrey, UK
-Dr. Yue Feng – Semantic Classification and Annotation (August 2007 – August 2009), University of Bradford, UK
-Mr. Ioannis Konstas, Social networks and Retrieval (September 2008 –October 2009), Assistant Professor, University of Heriot Watt, UK
-Mr Desmond Elliot, Personalized IR, (September 2008 – December 2009), University of Edinburgh, UK
-Mr Anuj Goyal, Active Learning, (June 2008-December 2009), LinkedIn, USA
-Dr. David Vallet, Semantic Retrieval, (November 2008 – November 2009), Google, Australia.
-Dr. Hemant Misra, Multimedia Models (October 2008 – December 2009), Senior Vice President, City Bank.
-Dr Ivan Cantador, Semantic Retrieval (January 2009 – November 2009), Assistant Professor, University of Autonama, Madrid, Spain
-Dr. Robert Villa – Context sensitive Multimedia Retrieval (June 2006 - June 2010), University of Edinburgh
-Mr. David Hannah – Research Programmer (August 2007 – Dec 2010), at the Glasgow College
-Dr Iraklis Klampanos, P2P Information retrieval, (July 2008- Dec 2010), at the University of Athens
-Dr Yashar Moshfeghi, Information Retrieval (August 2011-August 2014), Lecturer/Chancellor's Research Fellow, University of Strathclyde
-Dr Haitao Yu, Information Retrieval (August 2015-August 2017), Lecturer, University of Tsekuba, Japan
-Dr Long Chen, Topic Modelling (August 2014- Dec 2017), Innovation Research Fellow, UBDC, University of Glasgow
+<!-- {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %} -->
+
+1. Dr. Tassos Tombros, Personalization of Web Searches through Ostension and Summarization (2002- 2003). Senior Lecturer, Queen Mary, University of London, UK.
+2. Dr. Xavier Hilaire, Context sensitive Information Retrieval (2006), Assistant Professor, INRIA (Group ESIEE), Paris, France.
+3. Dr. Jialie Shen, Music Information retrieval (2006-2007), Senior Lecturer, University of Northambria, UK.
+4. Dr. Jana Urban, Adaptive Multimedia Retrieval (2006- 2007), Google, Zurich, Switzerland.
+5. Mr. Nicholas Gildea, Research Programmer (August 2007 – July 2007), Industry, Glasgow.
+6. Dr. Thierry Urrutty, Multimedia Mining, (November 2007- December 2008), Assistant Professor, Universite de Poitiers - UFR Sciences, France.
+7. Dr. Hideo Joho– Multimodal Interaction and Adaptive Retrieval (August 2005-October 2009), University of Tsekuba, Japan.
+8. Dr. Punitha Swamy - Multimedia Retrieval (November 2006 – December 2010), IBM, India
+9. Dr. Martin Halvey - Adaptive Multimedia Retrieval (July 2007 – December 2009), Senior Lecturer, University of Strathclyde
+10. Dr. Reede Ren – Multimedia Mining and Retrieval (March 2007 –June 2010), University of Surrey, UK
+11. Dr. Yue Feng – Semantic Classification and Annotation (August 2007 – August 2009), University of Bradford, UK
+12. Mr. Ioannis Konstas, Social networks and Retrieval (September 2008 –October 2009), Assistant Professor, University of Heriot Watt, UK
+13. Mr Desmond Elliot, Personalized IR, (September 2008 – December 2009), University of Edinburgh, UK
+14. Mr Anuj Goyal, Active Learning, (June 2008-December 2009), LinkedIn, USA
+15. Dr. David Vallet, Semantic Retrieval, (November 2008 – November 2009), Google, Australia.
+16. Dr. Hemant Misra, Multimedia Models (October 2008 – December 2009), Senior Vice President, City Bank.
+17. Dr Ivan Cantador, Semantic Retrieval (January 2009 – November 2009), Assistant Professor, University of Autonama, Madrid, Spain
+18. Dr. Robert Villa – Context sensitive Multimedia Retrieval (June 2006 - June 2010), University of Edinburgh
+19. Mr. David Hannah – Research Programmer (August 2007 – Dec 2010), at the Glasgow College
+20. Dr Iraklis Klampanos, P2P Information retrieval, (July 2008- Dec 2010), at the University of Athens
+21. Dr Yashar Moshfeghi, Information Retrieval (August 2011-August 2014), Lecturer/Chancellor's Research Fellow, University of Strathclyde
+22. Dr Haitao Yu, Information Retrieval (August 2015-August 2017), Lecturer, University of Tsekuba, Japan
+23. Dr Long Chen, Topic Modelling (August 2014- Dec 2017), Innovation Research Fellow, UBDC, University of Glasgow
 
 <!-- <h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
 {% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %} -->

@@ -17,7 +17,6 @@ These are former lab alumni who have gone on to make significant contributions i
 {% include alumni-tabled.html role="pi" group="alum" mini="true" %}
 <h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
 <!-- {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %} -->
-
 <ol style="text-align: start; width: 85%;">
     <li>Dr. Tassos Tombros, Personalization of Web Searches through Ostension and Summarization (2002- 2003). Senior Lecturer, Queen Mary, University of London, UK.</li>
     <li>Dr. Xavier Hilaire, Context sensitive Information Retrieval (2006), Assistant Professor, INRIA (Group ESIEE), Paris, France.</li>
@@ -48,7 +47,6 @@ These are former lab alumni who have gone on to make significant contributions i
 {% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %} -->
 <h3 style="text-align: start; width: 85%;"> PhD Students </h3>
 <!-- {% include alumni-tabled.html role="phd" group="alum" mini="true" %} -->
-
 <ol style="text-align: start; width: 85%;">
     <li>Ryen White (2004) - Implicit Feedback for Interactive Information Retrieval, University of Glasgow, (BCS/CPHC Distinguished Dissertation Award for the best Computer Science Ph.D. dissertation in the United Kingdom for 2004/2005), Ryen is currently a senior researcher at the Microsoft Research, Seattle, USA.</li>
     <li>Mark Baillie (2004) – A Study of Audio based Sports Video Indexing techniques, University of Glasgow, Currently Working in Industry.</li>

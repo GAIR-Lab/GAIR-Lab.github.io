@@ -66,7 +66,7 @@ These are former lab alumni who have gone on to make significant contributions i
     <li>Andrew James McMinn, Event detection in social streams (Start-up Scoop Analytics).</li>
     <li>Jesus Rodriguez Perez - Microblog Retrieval Techniques, Lecturer University of Glasgow.</li>
     <li>Horatiu-Sorin Bota - Composite Web Search, Data Scientist & Engineer, Python for Accounting.</li>
-    <li>Fajie Yuang, Learning Implicit Recommenders from Massive Unobserved Feedback, Assistant Professor, Westlake University China.</li>
+    <li>Fajie Yuan, Learning Implicit Recommenders from Massive Unobserved Feedback, Assistant Professor, Westlake University China.</li>
     <li>Xin Xin, Deep Learning-Based Implicit Feedback Recommendation, Assistant Professor in the School of Computer Science and Technology of Shandong University, China.</li>
 </ol>
 

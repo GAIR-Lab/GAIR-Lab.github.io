@@ -47,19 +47,46 @@ These are former lab alumni who have gone on to make significant contributions i
 <!-- <h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
 {% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %} -->
 <h3 style="text-align: start; width: 85%;"> PhD Students </h3>
-{% include alumni-tabled.html role="phd" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 85%;"> PharmD Students </h3>
-{% include alumni-tabled.html role="pharmd" group="alum" mini="true" %} -->
-<h3 style="text-align: start; width: 85%;"> Master’s Students </h3>
-{% include alumni-tabled.html role="masters" group="alum" mini="true" %}
-<h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3>
-{% include alumni-tabled.html role="undergrad" group="alum" mini="true" %}
-<!-- <h3 style="text-align: start; width: 85%;"> High School Students </h3>
-{% include alumni-tabled.html role="highschool" group="alum" mini="true" %} -->
+<!-- {% include alumni-tabled.html role="phd" group="alum" mini="true" %} -->
+
+<ol style="text-align: start; width: 85%;">
+    <li>Ryen White (2004) - Implicit Feedback for Interactive Information Retrieval, University of Glasgow, (BCS/CPHC Distinguished Dissertation Award for the best Computer Science Ph.D. dissertation in the United Kingdom for 2004/2005), Ryen is currently a senior researcher at the Microsoft Research, Seattle, USA.</li>
+    <li>Mark Baillie (2004) – A Study of Audio based Sports Video Indexing techniques, University of Glasgow, Currently Working in Industry.</li>
+    <li>Iraklis Klampanos (2006) - A Cluster Based architecture for Peer to Peer Information Retrieval, University of Glasgow, Currently PDRA at the University of Edinburgh, UK.</li>
+    <li>Jana Urban (2006) - An Adaptive Approach for Image Organisation and Retrieval, University of Glasgow, Currently at the Google Lab, Zurich.</li>
+    <li>Reede Ren (2007) - Audio-Visual Football Video Analysis – From Structure Detection to Attention Analysis, University of Glasgow, Currently PDRA at the University of Sheffield, UK.</li>
+    <li>Ioannis Arapakis – Affect-Based Information Retrieval, University of Glasgow, Currently at the Yahoo Research labs, Barcelona.</li>
+    <li>Frank Hopfgartner – Adaptive and Personalized Multimedia Retrieval, University of Glasgow, Currently at the Technical University of Berlin.</li>
+    <li>Yashar Moshfeghi – Multi-modal Interaction Personalized search, University of Glasgow, currently PDRA at the University of Glasgow.</li>
+    <li>Vassilios Stathopoulos – Semantic Annotation, University of Glasgow, Currently at the University of Warwick (Statistics).</li>
+    <li>Teerapong Leelanupab, Evaluation for Diversity-Based Retrieval, Associate Professor, King Mongkut’s Institute of Technology Ladkrabang (KMITL).</li>
+    <li>Rami S Alkhawaldeh - Peer to Peer Information retrieval - Associate Professor in Computer Science, the University of Jordan.</li>
+    <li>Philip McParlane - The Role of Context in Image Annotation and Recommendation, CEO 4dayweek.io.</li>
+    <li>Stewart Whiting, Temporal dynamics in information retrieval, Founder & CTO Current Health.</li>
+    <li>Andre McHugh, Digital Preservation, Centre for Urban Big Data Centre, University of Glasgow.</li>
+    <li>Ke Zhou - Search Results Aggregation, Research Scientist, Nokia Bell-Labs.</li>
+    <li>Andrew James McMinn, Event detection in social streams (Start-up Scoop Analytics).</li>
+    <li>Jesus Rodriguez Perez - Microblog Retrieval Techniques, Lecturer University of Glasgow.</li>
+    <li>Horatiu-Sorin Bota - Composite Web Search, Data Scientist & Engineer, Python for Accounting.</li>
+    <li>Fajie Yuang, Learning Implicit Recommenders from Massive Unobserved Feedback, Assistant Professor, Westlake University China.</li>
+    <li>Xin Xin, Deep Learning-Based Implicit Feedback Recommendation, Assistant Professor in the School of Computer Science and Technology of Shandong University, China.</li>
+</ol>
+
+
+
+
+<!-- <h3 style="text-align: start; width: 85%;"> PharmD Students </h3> -->
+<!-- {% include alumni-tabled.html role="pharmd" group="alum" mini="true" %} -->
+<!-- <h3 style="text-align: start; width: 85%;"> Master’s Students </h3> -->
+<!-- {% include alumni-tabled.html role="masters" group="alum" mini="true" %} -->
+<!-- <h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3> -->
+<!-- {% include alumni-tabled.html role="undergrad" group="alum" mini="true" %} -->
+<!-- <h3 style="text-align: start; width: 85%;"> High School Students </h3> -->
+<!-- {% include alumni-tabled.html role="highschool" group="alum" mini="true" %} -->
 <!-- <h3 style="text-align: start; width: 85%;"> Programmers </h3> -->
-{% include alumni-tabled.html role="programmer" group="alum" mini="true" %}
+<!-- {% include alumni-tabled.html role="programmer" group="alum" mini="true" %} -->
 <!-- <h3 style="text-align: start; width: 85%;"> Mascots </h3> -->
-{% include alumni-tabled.html role="mascot" group="alum" mini="true" %}
+<!-- {% include alumni-tabled.html role="mascot" group="alum" mini="true" %}-->
 
 {% endcapture %}
 

@@ -40,12 +40,23 @@ We investigate intelligent solutions to social media analytics, including multi-
   include feature.html
   image="images/social.png"
   link="research"
-  heading="Social Media Analytics"
+  heading="Current Research themes"
   text=text
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers aiming to develop novel approaches, benchmarks, evaluations and datasets for generative AI solutions for future IR applications. 
+We focus on exploring generative AI solutions to various information problems, including: 
+<ul>
+  <li>Recommendation, with a special emphasis on Multimodal Recommendation</li>
+  <li>Multimodal LLMs</li>
+  <li>Image sentence retrieval</li>
+  <li>Facial Action Units recognition</li>
+  <li>Facial Expression detection</li>
+  <li>Conflict Detection on social media</li>
+  <li>Legal Prediction & Judgement Generation</li>
+</ul>
+<p>Overall, our approach is centred around leveraging Large Language Models to address such research problems.</p>
+
 
 GAIR Lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 

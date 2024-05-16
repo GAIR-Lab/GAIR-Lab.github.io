@@ -28,6 +28,16 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% endcapture %}
 
 
+Our team's distinguished collaborators include:
+<ul>
+  <li><a href="https://alexiskz.wordpress.com/" target="_blank">Dr Alexandros Karatzoglou</a>, Amazon</li>
+  <li><a href="https://iarapakis.github.io/">Dr Ioannis Arapakis</a>, Telefonica Research, Barcelona</li>
+  <li><a href="https://joholab.slis.tsukuba.ac.jp/">Prof Hideo Joho</a>, University of Tsukuba, Japan</li>
+  <li><a href="https://ii-research-yu.github.io/">Prof Haitao-Yu</a>, University of Tsukuba, Japan</li>
+  <li><a href="https://www.linkedin.com/in/jan-breitsohl-34807226/">Dr Jan Breitsohl</a>, School of Management, University of Glasgow</li>
+</ul>
+
+
 {% include centerer.html html=html %}
 
 <!-- section break -->
@@ -44,52 +54,9 @@ We are now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
 <!-- section break -->
 
-<!-- ## Funding
 
-{:.center}
-Our work is made possible by funding from several organizations. -->
 
-<!-- {%
-  include gallery.html
-  flat="true"
-  fit="false"
 
-  image1="images/team/gordon-and-betty-moore-foundation.png"
-  link1="https://www.moore.org/"
-  tooltip1="Gordon and Betty Moore Foundation"
-
-  image2="images/team/national-cancer-institute.png"
-  link2="https://www.cancer.gov/"
-  tooltip2="National Cancer Institute"
-
-  image3="images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png"
-  link3="https://www.alexslemonade.org/"
-  tooltip3="Alex's Lemonade Stand Foundation for Childhood Cancer"
-
-  image4="images/team/chan-zuckerberg-initiative.png"
-  link4="https://chanzuckerberg.com/"
-  tooltip4="Chan Zuckerberg Initiative"
-
-  image5="images/team/cystic-fibrosis-foundation.png"
-  link5="https://www.cff.org/"
-  tooltip5="Cystic Fibrosis Foundation"
-
-  image6="images/team/alfred-p-sloan-foundation.png"
-  link6="https://sloan.org/"
-  tooltip6="Alfred P. Sloan Foundation"
-
-  image7="images/team/national-human-genome-research-institute.png"
-  link7="https://www.genome.gov/"
-  tooltip7="National Human Genome Research Institute"
-
-  image8="images/team/national-heart-lung-and-blood-institute.png"
-  link8="https://www.nhlbi.nih.gov/"
-  tooltip8="National Heart, Lung, and Blood Institute"
-
-  image9="images/team/national-institute-of-neurological-disorders-and-stroke.png"
-  link9="https://www.ninds.nih.gov/"
-  tooltip9="National Institute of Neurological Disorders and Stroke"
-%} -->
 
 <!-- section break -->
 <!-- 

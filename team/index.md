@@ -30,7 +30,7 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include centerer.html html=html %}
 <p style="text-align: center;">
 Our team's distinguished collaborators include:
-<ul>
+<ul style="text-align: center;">
   <li><a href="https://alexiskz.wordpress.com/" target="_blank">Dr Alexandros Karatzoglou</a>, Amazon</li>
   <li><a href="https://iarapakis.github.io/">Dr Ioannis Arapakis</a>, Telefonica Research, Barcelona</li>
   <li><a href="https://joholab.slis.tsukuba.ac.jp/">Prof Hideo Joho</a>, University of Tsukuba, Japan</li>

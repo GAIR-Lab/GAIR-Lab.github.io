@@ -40,9 +40,9 @@ Our team's distinguished collaborators include:
 </p>
 
 <!-- section break -->
-
+<p style="text-align: center;">
 We are now recruiting self-motivated Ph.D. students with strong AI backgrounds.
-
+</p>
 {%
   include big-link.html
   icon="fas fa-hands-helping"

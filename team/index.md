@@ -27,7 +27,7 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include team-list.html role="mascot" group="" %}
 {% endcapture %}
 
-
+{% include centerer.html html=html %}
 Our team's distinguished collaborators include:
 <ul>
   <li><a href="https://alexiskz.wordpress.com/" target="_blank">Dr Alexandros Karatzoglou</a>, Amazon</li>
@@ -36,9 +36,6 @@ Our team's distinguished collaborators include:
   <li><a href="https://ii-research-yu.github.io/">Prof Haitao-Yu</a>, University of Tsukuba, Japan</li>
   <li><a href="https://www.linkedin.com/in/jan-breitsohl-34807226/">Dr Jan Breitsohl</a>, School of Management, University of Glasgow</li>
 </ul>
-
-
-{% include centerer.html html=html %}
 
 <!-- section break -->
 

@@ -31,20 +31,6 @@ We investigate intelligent solutions to information retrieval problems, includin
 %}
 
 {% capture text %}
-We investigate intelligent solutions to social media analytics, including multi-modal sentiment analysis, event detection from social streams, expression recognition, etc.
-
-[Our Publications &nbsp;→](research)
-{:.center}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/social.png"
-  link="research"
-  heading="Current Research themes"
-  text=text
-%}
-
-{% capture text %}
 We focus on exploring generative AI solutions to various information problems, including: 
 <ul>
   <li>Recommendation, with a special emphasis on Multimodal Recommendation</li>
@@ -58,6 +44,18 @@ We focus on exploring generative AI solutions to various information problems, i
 <p>Overall, our approach is centred around leveraging Large Language Models to address such research problems.</p>
 
 
+[Our Publications &nbsp;→](research)
+{:.center}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/social.png"
+  link="research"
+  heading="Current Research themes"
+  text=text
+%}
+
+{% capture text %}
 GAIR Lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
 

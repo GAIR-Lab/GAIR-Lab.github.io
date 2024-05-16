@@ -31,19 +31,19 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 <p style="text-align: center;">
 Our team's distinguished collaborators include:
     <ul style="list-style-position: inside; padding: 0; text-align: left;">
-        <li style="padding-left: 200px;">
+        <li style="padding-left: 500px;">
             <a href="https://alexiskz.wordpress.com/" target="_blank">Dr Alexandros Karatzoglou</a>, Amazon
         </li>
-        <li style="padding-left: 200px;">
+        <li style="padding-left: 500px;">
             <a href="https://iarapakis.github.io/" target="_blank">Dr Ioannis Arapakis</a>, Telefonica Research, Barcelona
         </li>
-        <li style="padding-left: 200px;">
+        <li style="padding-left: 500px;">
             <a href="https://joholab.slis.tsukuba.ac.jp/" target="_blank">Prof Hideo Joho</a>, University of Tsukuba, Japan
         </li>
-        <li style="padding-left: 200px;">
+        <li style="padding-left: 500px;">
             <a href="https://ii-research-yu.github.io/" target="_blank">Prof Haitao-Yu</a>, University of Tsukuba, Japan
         </li>
-        <li style="padding-left: 200px;">
+        <li style="padding-left: 500px;">
             <a href="https://www.linkedin.com/in/jan-breitsohl-34807226/" target="_blank">Dr Jan Breitsohl</a>, School of Management, University of Glasgow
         </li>
     </ul>

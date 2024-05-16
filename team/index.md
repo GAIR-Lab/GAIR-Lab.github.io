@@ -30,7 +30,7 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 {% include centerer.html html=html %}
 <p style="text-align: center;">
 Our team's distinguished collaborators include:
-    <ul style="list-style-position: inside; padding: 0; text-align: left;font-size:30px">
+    <ul style="list-style-position: inside; padding: 0; text-align: left;font-size:18px">
         <li style="padding-left: 40%;">
             <a href="https://alexiskz.wordpress.com/" target="_blank">Dr Alexandros Karatzoglou</a>, Amazon
         </li>

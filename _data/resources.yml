@@ -19,6 +19,18 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: ACM MM2024
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One full paper is accepted by ACM MM 2024!!!"
+
+- title: CIKM2024
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One full paper is accepted by CIKM 2024!!!"
+  
 - title: SIGIR2024
   type: legacy
   image: images/accept.jpg

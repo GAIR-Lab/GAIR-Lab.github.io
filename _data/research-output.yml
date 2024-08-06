@@ -1,3 +1,14 @@
+- title: 'Capturing the Spectrum of Social Media Conflict: A Novel Multi-objective Classification Model'
+  authors:
+  - Oliver Warke 
+  - Joemon M. Jose
+  - Jan Breitsohl
+  - Jie Wang
+  publisher: ICTIR'24
+  date: '2024-07-13'
+  link: https://dl.acm.org/doi/pdf/10.1145/3664190.3672510
+  image: images/paper_logo.png
+
 - title: 'IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT'
   authors:
   - Junchen Fu

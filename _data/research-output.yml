@@ -1,3 +1,15 @@
+- title: 'Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers for Diversity, Novelty, and Serendipity'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Xin Xin
+  - Xuri Ge
+  publisher: full research paper CIKM24
+  date: '2024-07-18'
+  link: https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=dK1hORsAAAAJ&sortby=pubdate&citation_for_view=dK1hORsAAAAJ:8uzoZH4hB9AC
+  image: images/paper_logo.png
+  
 - title: 'Capturing the Spectrum of Social Media Conflict: A Novel Multi-objective Classification Model'
   authors:
   - Oliver Warke 

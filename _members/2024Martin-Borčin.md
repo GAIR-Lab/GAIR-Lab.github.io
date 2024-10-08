@@ -4,7 +4,7 @@ title: Martin Borčin (PhD)
 search:
   - Martin
   - Borčin
-image: images/team/kaiwen-zheng.jpg
+image: images/team/martin.jpg
 
 role: phd
 

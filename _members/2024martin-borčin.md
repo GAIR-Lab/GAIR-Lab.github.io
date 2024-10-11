@@ -14,4 +14,6 @@ twitter:
 
 ---
 
-I am a first-year PhD student advised by Prof. [Joemon Jose](https://www.gla.ac.uk/schools/computing/staff/joemonjose/) at [University of Glasgow](https://www.gla.ac.uk/). Before this, I received my master's degree from [University of Glasgow](https://www.gla.ac.uk/) in 2024.
+I am a first-year PhD student at the University of Glasgow, working under the supervision of Professor [Joemon Jose](https://www.gla.ac.uk/schools/computing/staff/joemonjose/). During my Bachelor’s project, I focused on neural topic modeling using the BERTopic framework, and for my Master’s project, I explored how large language models (LLMs) can perform legal reasoning and generate legal documents. My doctoral research continues at the intersection of natural language processing (NLP) and information retrieval (IR), where I study the integration of LLMs and Knowledge Graphs, with applications in the legal domain and beyond. 
+
+I also have extensive professional experience in developing systems for the collection and processing of open-source intelligence from the web and social media platforms. Outside of research, I love hiking, playing the piano, and enjoy specialty coffee!

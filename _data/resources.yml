@@ -19,6 +19,12 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: WSDM2025
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One full paper is accepted by WSDM2025"
+  
 - title: ACM MM2024
   type: legacy
   image: images/accept.jpg

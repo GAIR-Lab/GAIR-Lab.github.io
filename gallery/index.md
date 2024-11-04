@@ -12,10 +12,10 @@ This tab contains photos of GAIR-Lab and the University of Glasgow in Glasgow, U
 {%
   include gallery.html
   image1="images/xuri_graduation1.jpg"
-  image2="images/xuri_graduation1.jpg"
-  image3="images/xuri_graduation1.jpg"
-  image4="images/xuri_graduation1.jpg"
-  image5="images/xuri_graduation1.jpg"
+  image2="images/xuri_graduation2.jpg"
+  image3="images/xuri_graduation3.jpg"
+  image4="images/xuri_graduation4.jpg"
+  image5="images/xuri_graduation5.jpg"
   image6="images/backgrounds/uofg.jpeg"
   image7="images/cs_buliding1.jpg"
   image8="images/glasgow1.png"

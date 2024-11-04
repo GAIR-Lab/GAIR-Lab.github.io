@@ -1,5 +1,6 @@
 ---
 title: Resources
+background: images/backgrounds/uofg.jpeg
 ---
 
 # <i class="fas fa-book"></i>Resources

@@ -19,16 +19,16 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
-- title: We are excited to announce the EReL@MIR Workshop at WWW2025 and kindly invite submissions!!!
+- title: EReL@MIR Workshop at WWW2025
   type: legacy
   image: images/erel.png
   link: https://erel-mir.github.io/
-  description: "One full paper is accepted by WSDM2025"
+  description: "We are excited to announce the EReL@MIR Workshop at WWW2025 and kindly invite submissions about efficiency in multimodal information retrieval!!!"
 - title: We are excited to announce the R3AG Workshop at SIGIR-AP2024 and kindly invite submissions!!!
   type: legacy
   image: images/r3ag.png
   link: https://r3ag-sigir-ap.github.io/
-  description: "One full paper is accepted by WSDM2025"
+  description: "We are excited to announce the R3AG Workshop at SIGIR-AP2024 and kindly invite submissions about refined and reliable retrieval augmented generation!!!"
 - title: WSDM2025
   type: legacy
   image: images/accept.jpg

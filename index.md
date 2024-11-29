@@ -10,7 +10,7 @@ The homepage of the Laboratory for Generative AI Solutions for Information Retri
 
 GAIR Lab is committed to researching generative artificial intelligence solutions for multimedia tasks, including Information Retrieval(multi-modal recommendation, multi-modal retrieval, efficient multi-modal representation, etc.) and Social Media Analytics(multi-modal sentiment analysis, event detection from social streams, expression recognition, etc.), etc. 
 
-Our lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
+Our lab is actively seeking self-motivated Ph.D. students with a strong background in AI. We also welcome enthusiastic master's students who are interested in collaborating with us on their master's projects. If you're interested, please don't hesitate to reach out via email.
 
 <b style="color:red;">Latest News:</b><br>
 <b style="color:red;">

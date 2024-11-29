@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: EReL@MIR Workshop submission portal is open now!!!
+  type: legacy
+  image: images/erel.png
+  link: https://erel-mir.github.io/
+  description: "The submission portal for EReL@MIR 2025 is now open on EasyChair! We warmly welcome your submissions. Visit EasyChair to submit your work."
 - title: EReL@MIR Workshop at WWW2025
   type: legacy
   image: images/erel.png

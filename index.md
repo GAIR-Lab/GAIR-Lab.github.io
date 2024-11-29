@@ -12,6 +12,17 @@ GAIR Lab is committed to researching generative artificial intelligence solution
 
 Our lab is now recruiting self-motivated Ph.D. students with strong AI backgrounds.
 
+<b style="color:red;">Latest News:</b><br>
+<b style="color:red;">
+    Our lab will organize EReL@MIR Workshop in WWW2025, the submissions are welcome! </b>
+    The website link is at <a href="https://erel-mir.github.io/" style="color:blue;">https://erel-mir.github.io/</a>, 
+    the submission link is <a href="https://easychair.org/conferences/?conf=erelmir2025" style="color:blue;">https://easychair.org/conferences/?conf=erelmir2025</a>.
+
+
+
+
+
+
 
 <!-- section break -->
 

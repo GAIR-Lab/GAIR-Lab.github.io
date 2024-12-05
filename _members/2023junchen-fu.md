@@ -19,3 +19,5 @@ I am a PhD student advised by Prof. [Joemon Jose](https://www.gla.ac.uk/schools/
 - Efficiency in multimodal recommendation and information retrieval systems
 - Multimodal Representation Learning
 - Multimodal Generative Models
+
+You can check my [homepage](https://junchen-fu.github.io/) for more details.

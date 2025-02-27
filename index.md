@@ -44,6 +44,8 @@ We investigate intelligent solutions to information retrieval problems, includin
 {% capture text %}
 We focus on exploring generative AI solutions to various information problems, including: 
 <ul>
+  <li>Reinforcement learning based Recommendation, e.g., RLAIF, Multi-objective</li>
+  <li>LLM based Personalization</li>
   <li>Recommendation, with a special emphasis on Multimodal Recommendation</li>
   <li>Multimodal LLMs</li>
   <li>Image sentence retrieval</li>

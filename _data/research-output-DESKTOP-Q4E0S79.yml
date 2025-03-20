@@ -1,0 +1,209 @@
+- title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
+  authors:
+  - Xuri Ge
+  - Junchen Fu
+  - Fuhai Chen
+  - Shan An
+  - Nicu Sebe
+  - Joemon M. Jose
+  publisher: full research paper MM24
+  date: '2024-10-29'
+  link: https://dl.acm.org/doi/10.1145/3664647.3681443
+  image: images/paper_logo.png
+- title: 'Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers for Diversity, Novelty, and Serendipity'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Xin Xin
+  - Xuri Ge
+  - Joemon M. Jose
+  publisher: full research paper CIKM24
+  date: '2024-07-18'
+  link: https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=dK1hORsAAAAJ&sortby=pubdate&citation_for_view=dK1hORsAAAAJ:8uzoZH4hB9AC
+  image: images/paper_logo.png
+  
+- title: 'Capturing the Spectrum of Social Media Conflict: A Novel Multi-objective Classification Model'
+  authors:
+  - Oliver Warke 
+  - Joemon M. Jose
+  - Jan Breitsohl
+  - Jie Wang
+  publisher: ICTIR'24
+  date: '2024-07-13'
+  link: https://dl.acm.org/doi/pdf/10.1145/3664190.3672510
+  image: images/paper_logo.png
+
+- title: 'IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT'
+  authors:
+  - Junchen Fu
+  - Xuri Ge
+  - Xin Xin
+  - Alexandros Karatzgolou
+  - Ioannis Arapakis
+  - Jie Wang
+  - Joemon M. Jose
+  publisher: Accpeted by SIGIR2024 as a full paper
+  date: '2024-04-02'
+  link: https://arxiv.org/abs/2404.02059
+  image: images/research/IISAN.png
+
+- title: 'Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Joemon M. Jose
+  publisher: Accpeted by SIGIR2024 as a full paper
+  date: '2024-03-25'
+  link: https://arxiv.org/abs/2403.16948
+  image: images/research/SSRL4R.png
+
+- title: 'CFIR: Fast and Effective Long-Text To Image Retrieval for Large Corpora'
+  authors:
+  - Zijun Long
+  - Xuri Ge
+  - Richard Mccreadie
+  - Joemon M. Jose
+  publisher: Accpeted by SIGIR2024 as a full paper
+  date: '2024-03-23'
+  link: https://arxiv.org/abs/2402.15276
+  image: images/research/CFIR.png
+
+- title: '3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting'
+  authors:
+  - Xuri Ge
+  - Songpei Xu
+  - Fuhai Chen
+  - Jie Wang
+  - Guoxin Wang
+  - Shan An
+  - Joemon M. Jose
+  publisher: Information Processing & Management (IP&M)
+  date: '2024-03-22'
+  link: https://www.sciencedirect.com/science/article/pii/S0306457324000761?via%3Dihub
+  image: images/research/SHNet.png
+
+- title: 'MGRR-Net: Multi-level Graph Relational Reasoning Network for Facial Action Unit Detection'
+  authors:
+  - Xuri Ge
+  - Joemon M. Jose
+  - Songpei Xu
+  - Xiao Liu
+  - Hu Han
+  publisher: ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+  date: '2024-03-21'
+  link: https://dl.acm.org/doi/full/10.1145/3643863
+  image: images/paper_logo.png
+
+- title: 'Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models'
+  authors:
+  - Jie Wang
+  - Kanha Bansal
+  - Ioannis Arapakis
+  - Xuri Ge
+  - Joemon M. Jose
+  publisher: European Conference on Information Retrieval (ECIR)
+  date: '2024-03-02'
+  link: https://link.springer.com/chapter/10.1007/978-3-031-56027-9_19
+  image: images/paper_logo.png
+
+
+- title: 'ALGRNet: Multi-Relational Adaptive Facial Action Unit Modelling for Face Representation and Relevant Recognitions'
+  authors:
+  - Xuri Ge
+  - Joemon M. Jose
+  - Pengcheng Wang
+  - Arunachalam Iyer
+  - Xiao Liu
+  - Hu Han
+  publisher: IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)
+  date: '2023-08-21'
+  link: https://ieeexplore.ieee.org/abstract/document/10225375
+  image: images/research/ALGRNet.png
+
+- title: 'Utilising Twitter Metadata for Hate Classification'
+  authors:
+  - Oliver Warke
+  - Joemon M. Jose
+  - Jan Breitsohl
+  publisher: European Conference on Information Retrieval (ECIR)
+  date: '2023-03-27'
+  link: https://link.springer.com/chapter/10.1007/978-3-031-28238-6_59
+  image: images/paper_logo.png
+
+- title: 'Cross-modal semantic enhanced interaction for image-sentence retrieval'
+  authors:
+  - Xuri Ge
+  - Fuhai Chen
+  - Songpei Xu
+  - Fuxiang Tao
+  - Joemon M. Jose
+  publisher: Proceedings of the IEEE/CVF winter conference on applications of computer vision (WACV)
+  date: '2023-02-27'
+  link: https://openaccess.thecvf.com/content/WACV2023/html/Ge_Cross-Modal_Semantic_Enhanced_Interaction_for_Image-Sentence_Retrieval_WACV_2023_paper
+  image: images/paper_logo.png
+
+- title: 'Supervised advantage actor-critic for recommender systems'
+  authors:
+  - Xin Xin
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Joemon M. Jose
+  publisher: Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM)
+  date: '2022-02-11'
+  link: https://dl.acm.org/doi/abs/10.1145/3488560.3498494
+  image: images/paper_logo.png
+
+- title: 'Learning robust recommenders through cross-model agreement'
+  authors:
+  - Yu Wang
+  - Xin Xin
+  - Zaiqiang Meng
+  - Joemon M. Jose
+  - Fuli Feng
+  - Xiangnan He
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-11'
+  link: https://dl.acm.org/doi/pdf/10.1145/3485447.3512202
+  image: images/paper_logo.png
+
+- title: 'Local global relational network for facial action units recognition'
+  authors:
+  - Xuri Ge
+  - Pengcheng Wang
+  - Hu Han
+  - Joemon M. Jose
+  - Zhilong Ji
+  - Zhongqin Wu
+  - Xiao Liu
+  publisher: IEEE International Conference on Automatic Face and Gesture Recognition (FG)
+  date: '2021-12-15'
+  link: https://ieeexplore.ieee.org/abstract/document/9666961
+  image: images/paper_logo.png
+
+- title: 'Structured multi-modal feature embedding and alignment for image-sentence retrieval'
+  authors:
+  - Xuri Ge
+  - Fuhai Chen
+  - Joemon M. Jose
+  - Zhilong Ji
+  - Zhongqin Wu
+  - Xiao Liu
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia (ACM MM)
+  date: '2021-10-15'
+  link: https://dl.acm.org/doi/pdf/10.1145/3474085.3475634
+  image: images/paper_logo.png
+
+- title: 'One person, one model, one world: Learning continual user representation without forgetting'
+  authors:
+  - Fajie Yuan
+  - Guoxiao Zhang
+  - Alexandros Karatzoglou
+  - Joemon M. Jose
+  - Beibei Kong
+  - Yudong Li
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval
+  date: '2021-7-15'
+  link: https://dl.acm.org/doi/pdf/10.1145/3404835.3462884
+  image: images/paper_logo.png

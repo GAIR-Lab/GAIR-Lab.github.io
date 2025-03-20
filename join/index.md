@@ -16,4 +16,4 @@ Please send your CV along with names and contact information for two references 
 
 ---
 
-# {% include figure.html image="team/group-photo-3.jpg" full="true" %}
+

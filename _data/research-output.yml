@@ -1,3 +1,15 @@
+- title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
+  authors:
+  - Xuri Ge
+  - Junchen Fu
+  - Fuhai Chen
+  - Shan An
+  - Nicu Sebe
+  - Joemon M. Jose
+  publisher: full research paper MM24
+  date: '2024-10-29'
+  link: https://dl.acm.org/doi/10.1145/3664647.3681443
+  image: images/paper_logo.png
 - title: 'Sparks of Surprise: Multi-objective Recommendations with Hierarchical Decision Transformers for Diversity, Novelty, and Serendipity'
   authors:
   - Jie Wang

@@ -1,3 +1,14 @@
+- title: 'Double-Filter: Efficient Fine-tuning of Pre-trained Vision-Language Models via Patch&Layer Filtering'
+  authors:
+  - Yaoqin He
+  - Junchen Fu
+  - Kaiwen Zheng
+  - Songpei Xu
+  - Fuhai Chen
+  - Jie Li
+  - Joemon M. Jose
+  - Xuri Ge
+  publisher: full research paper ICML25
 - title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
   authors:
   - Xuri Ge

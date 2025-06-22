@@ -38,7 +38,7 @@ Our team's distinguished collaborators include:
             <a href="https://iarapakis.github.io/" target="_blank">Dr Ioannis Arapakis</a>, Telefonica Research, Barcelona
         </li>
         <li style="padding-left: 40%;">
-            <a href="https://iarapakis.github.io/" target="_blank">Adv. Joseph Pookkatt</a>, Kronicle Research
+            <a href="https://www.kronicle.in/" target="_blank">Adv. Joseph Pookkatt</a>, Kronicle Research
         </li>
         <li style="padding-left: 40%;">
             <a href="https://joholab.slis.tsukuba.ac.jp/" target="_blank">Prof Hideo Joho</a>, University of Tsukuba, Japan

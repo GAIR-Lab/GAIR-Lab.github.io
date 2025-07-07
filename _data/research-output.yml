@@ -23,6 +23,17 @@
   date: '2025-7-7'
   link: 10.1109/TKDE.2025.3582506  
   image: images/paper_logo.png
+- title: 'Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis'
+  authors:
+  - Kaiwen Zheng
+  - Xuri Ge
+  - Junchen Fu
+  - Jun Peng
+  - Joemon M. Jose
+  publisher: full research paper TKDE25
+  date: '2025-7-7'
+  link: 10.1109/TKDE.2025.3582506  
+  image: images/paper_logo.png
 - title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
   authors:
   - Xuri Ge

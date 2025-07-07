@@ -8,6 +8,17 @@
   - Jie Li
   - Joemon M. Jose
   - Xuri Ge
+  publisher: full research paper TKDE25
+  date: '2025-7-13'
+  link: 10.1109/TKDE.2025.3582506
+  image: images/paper_logo.png
+- title: 'Beyond Accuracy: Decision Transformers for Reward-driven Multi-objective Recommendations'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Joemon M. Jose
+  - Xuri Ge
   publisher: full research paper ICML25
   date: '2025-7-13'
   link: https://icml.cc/virtual/2025/poster/43782

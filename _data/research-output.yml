@@ -20,7 +20,7 @@
   - Joemon M. Jose
   - Xuri Ge
   publisher: full research paper TKDE25
-  date: '2025-7-7'
+  date: '2025-6-30'
   link: 10.1109/TKDE.2025.3582506  
   image: images/paper_logo.png
 - title: 'Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis'
@@ -30,9 +30,9 @@
   - Junchen Fu
   - Jun Peng
   - Joemon M. Jose
-  publisher: full research paper TKDE25
+  publisher: full research paper ICME25
   date: '2025-7-7'
-  link: 10.1109/TKDE.2025.3582506  
+  link: https://arxiv.org/abs/2504.10351
   image: images/paper_logo.png
 - title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
   authors:

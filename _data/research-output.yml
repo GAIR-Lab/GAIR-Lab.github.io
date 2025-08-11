@@ -89,7 +89,7 @@
   - Joemon M. Jose
   - Yongxin Ni
   publisher: Proceedings of the ACM on Web Conference 2025
-  date: '2025-04-28 to 2025-05-02'
+  date: '2025-04-28'
   link: https://dl.acm.org/doi/abs/10.1145/3696410.3714852
   image: images/paper_logo.png
 
@@ -100,7 +100,7 @@
   - Antonis Troumpoukis
   - Joemon M. Jose
   publisher: Arxiv 2025
-  date: '2025-04-02
+  date: '2025-04-02'
   link: https://arxiv.org/abs/2504.01771
   image: images/paper_logo.png
 
@@ -139,7 +139,7 @@
   - Joemon M. Jose
   - Xuri Ge
   publisher: full research paper ICML25
-  date: '2025-7-13'
+  date: '2025-07-13'
   link: https://icml.cc/virtual/2025/poster/43782
   image: images/paper_logo.png
 - title: 'Beyond Accuracy: Decision Transformers for Reward-driven Multi-objective Recommendations'

@@ -1,3 +1,133 @@
+- title: 'Frequency-Decoupled Distillation for Efficient Multimodal Recommendation'
+  authors:
+  - Ziyi Zhuang
+  - Hongji Li
+  - Junchen Fu
+  - Jiacheng Liu
+  - Joemon M. Jose
+  - Youhua Li
+  - Yongxin Ni
+  publisher: full research paper CIKM 2025
+  date: '2025-11-10'
+  link: https://eprints.gla.ac.uk/361950/
+  image: images/paper_logo.png
+
+- title: 'Beyond Clicks: Eye-Tracking Insights into User Responses to Different Recommendation Types'
+  authors:
+  - George Koutroumpas
+  - Matteo Mazzini
+  - Sebastian Idesis
+  - Mireia Masias
+  - Joemon M. Jose
+  - Sergi Abadal
+  - Ioannis Arapakis
+  publisher: full research paper RecSys 2025
+  date: '2025-09-22'
+  link: https://eprints.gla.ac.uk/361827/
+  image: images/paper_logo.png
+
+- title: 'LLM supporting knowledge tracing leveraging global subject and student specific knowledge graphs'
+  authors:
+  - Linqing Li
+  - Zhifeng Wang
+  - Joemon M. Jose
+  - Xuri Ge
+  publisher: Information Fusion (Accepted for Publication)
+  date: '2025'
+  link: https://eprints.gla.ac.uk/360853/
+  image: images/paper_logo.png
+
+- title: 'A Comparative Study of Conversational and Conventional Search Methods for Image Retrieval'
+  authors:
+  - Anastasiia Potiagalova
+  - Joemon M. Jose
+  publisher: IEEE CBMI 2025
+  date: '2025-10-22'
+  link: 
+  image: images/paper_logo.png
+
+- title: 'An Instruction-Response Perspective on Large Language Models in Information Retrieval Tasks'
+  authors:
+  - Hideo Joho
+  - Joemon M. Jose
+  publisher: SIGIR 2025
+  date: '2025-07-13 to 2025-07-17'
+  link: 
+  image: images/paper_logo.png
+
+- title: 'PromptAug: Fine-grained Conflict Classification Using Data Augmentation'
+  authors:
+  - Oliver Warke
+  - Joemon M. Jose
+  - F. Hasibi
+  - J. Breitsohl
+  publisher: arXiv preprint
+  date: '2025'
+  link: https://arxiv.org/abs/2506.22491
+  image: images/paper_logo.png
+
+- title: 'Hire: Hybrid-Modal Interaction with Multiple Relational Enhancements for Image-Text Matching'
+  authors:
+  - Xuri Ge
+  - Fuhai Chen
+  - Songpei Xu
+  - Fuxiang Tao
+  - Jie Wang
+  - Joemon M. Jose
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  date: '2025'
+  link: https://dl.acm.org/doi/full/10.1145/3714431
+  image: images/paper_logo.png
+
+- title: 'Bridging the Gap: Teacher-Assisted Wasserstein Knowledge Distillation for Efficient Multi-Modal Recommendation'
+  authors:
+  - Ziyi Zhuang
+  - Hanwen Du
+  - Hui Han
+  - Youhua Li
+  - Junchen Fu
+  - Joemon M. Jose
+  - Yongxin Ni
+  publisher: Proceedings of the ACM on Web Conference 2025
+  date: '2025-04-28 to 2025-05-02'
+  link: 
+  image: images/paper_logo.png
+
+- title: 'Enhancing Interpretability in Generative AI Through Search-Based Data Influence Analysis'
+  authors:
+  - Theodoros Aivalis
+  - Iraklis A. Klampanos
+  - Antonis Troumpoukis
+  - Joemon M. Jose
+  publisher: Greeks in AI 2025 (Accepted for Publication)
+  date: '2025-07-19 to 2025-07-20'
+  link: https://arxiv.org/abs/2504.01771
+  image: images/paper_logo.png
+
+- title: 'Large Language Model driven Policy Exploration for Recommender Systems'
+  authors:
+  - Jie Wang
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Joemon M. Jose
+  publisher: WSDM 2025
+  date: '2025-03-10 to 2025-03-14'
+  link: https://doi.org/10.1145/3701551.3703496
+  image: images/paper_logo.png
+
+- title: 'LLMPopcorn: An empirical study of LLMs as assistants for popular micro-video generation'
+  authors:
+  - Junchen Fu
+  - Xuri Ge
+  - Kaiwen Zheng
+  - Ioannis Arapakis
+  - Xin Xin
+  - Joemon M. Jose
+  publisher: arXiv preprint
+  date: '2025'
+  link: https://arxiv.org/abs/2502.12945
+  image: images/paper_logo.png
+
 - title: 'Double-Filter: Efficient Fine-tuning of Pre-trained Vision-Language Models via Patch&Layer Filtering'
   authors:
   - Yaoqin He

@@ -52,7 +52,7 @@
   - Joemon M. Jose
   publisher: SIGIR 2025
   date: '2025-07-13 to 2025-07-17'
-  link: 
+  link: https://dl.acm.org/doi/10.1145/3726302.3730346
   image: images/paper_logo.png
 
 - title: 'PromptAug: Fine-grained Conflict Classification Using Data Augmentation'
@@ -99,8 +99,8 @@
   - Iraklis A. Klampanos
   - Antonis Troumpoukis
   - Joemon M. Jose
-  publisher: Greeks in AI 2025 (Accepted for Publication)
-  date: '2025-07-19 to 2025-07-20'
+  publisher: Arxiv 2025
+  date: '2025-04-02
   link: https://arxiv.org/abs/2504.01771
   image: images/paper_logo.png
 

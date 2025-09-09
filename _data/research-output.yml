@@ -1,3 +1,19 @@
+- title: 'Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation'
+  authors:
+  - Junchen Fu
+  - Xuri Ge
+  - Junchen Fu
+  - Xin Xin
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Kaiwen Zheng
+  - Yongxin Ni
+  - Joemon M. Jose
+  publisher: regular research paper TKDE 2025
+  date: '2025-09-10'
+  link: https://eprints.gla.ac.uk/365726/
+  image: images/paper_logo.png
+
 - title: 'Frequency-Decoupled Distillation for Efficient Multimodal Recommendation'
   authors:
   - Ziyi Zhuang

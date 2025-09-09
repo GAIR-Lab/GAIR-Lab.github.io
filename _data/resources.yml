@@ -19,6 +19,16 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: TKDE2025
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "Two regular paper is accepted by TKDE2025!!!"
+- title: CIKM2025
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One regular paper is accepted by CIKM2025!!!"
 - title: ICML2025
   type: legacy
   image: images/accept.jpg

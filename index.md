@@ -14,7 +14,7 @@ Our lab is actively seeking self-motivated Ph.D. students with a strong backgrou
 
 <b style="color:red;">Latest News:</b><br>
 <b style="color:red;">
-    Our lab will co-organize EReL@MIR Workshop in WWW2025, the submissions are welcome! </b>
+    Our lab will co-organize R3AG Workshop in SIGIR-AP 2025, the submissions are welcome! </b>
     The website link is at <a href="https://ii-research.github.io/R3AG/2025/" style="color:blue;">https://ii-research.github.io/R3AG/2025/</a>, 
     the submission link is <a href="https://easychair.org/conferences?conf=r3ag2025" style="color:blue;">https://easychair.org/conferences?conf=r3ag2025</a>.
 

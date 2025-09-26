@@ -38,6 +38,9 @@ Our team's distinguished collaborators include:
             <a href="https://iarapakis.github.io/" target="_blank">Dr Ioannis Arapakis</a>, Telefonica Research, Barcelona
         </li>
         <li style="padding-left: 40%;">
+            <a href="https://xurige1995.github.io/" target="_blank">Prof Xuri Ge</a>, Shandong University, Jinan, China
+        </li>
+        <li style="padding-left: 40%;">
             <a href="https://www.kronicle.in/" target="_blank">Adv. Joseph Pookkatt</a>, Kronicle Research
         </li>
         <li style="padding-left: 40%;">

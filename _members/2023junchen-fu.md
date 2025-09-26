@@ -18,9 +18,10 @@ I am a third-year PhD candidate at the University of Glasgow, advised by Prof. J
 
 My current research interests include:
 
-Multimodal Recommendation/Information Retrieval
-Efficient Finetuning for Multimodal Foundation Models
-New Multimedia Applications using Generative Models (Including LLMs and Diffusion models)
+- Multimodal Recommendation / Information Retrieval
+- Efficient Finetuning for Multimodal Foundation Models
+- New Multimedia Applications using Generative Models (including LLMs and Diffusion Models)
+
 I enjoy tackling non-trivial research questions with simple yet effective solutions. I am seeking to collaborate on a research project with self-motivated MSc students from UofG, particularly those interested in pursuing a PhD.
 
 More details can be check from my personal [homepage](https://junchen-fu.github.io/) 

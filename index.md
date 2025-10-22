@@ -18,12 +18,6 @@ Our lab is actively seeking self-motivated Ph.D. students with a strong backgrou
     The website link is at <a href="https://ii-research.github.io/R3AG/2025/" style="color:blue;">https://ii-research.github.io/R3AG/2025/</a>, 
     the submission link is <a href="https://easychair.org/conferences?conf=r3ag2025" style="color:blue;">https://easychair.org/conferences?conf=r3ag2025</a>.
 
-
-
-
-
-
-
 <!-- section break -->
 
 {% capture text %}

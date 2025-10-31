@@ -1,3 +1,10 @@
+- title: 'Efficient Fine-tuning of Vision Language Models and Applications'
+  authors:
+  - Joemon M. Jose
+  publisher: AIQAM '25:Proceedings of the 2nd ACM Workshop in AI-powered Question & Answering Systems
+  date: '2025-10-27'
+  link: https://dl.acm.org/doi/10.1145/3746274.3764913
+  image: images/paper_logo.png
 - title: 'Unlocking 18th-and 19th-century Playbills with AI: An Experiment in Qualitative Data Categorization'
   authors:
   - Deven Parker

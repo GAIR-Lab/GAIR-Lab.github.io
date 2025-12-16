@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: ECIR2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One reproducbility paper is accepted by ECIR2026!!!"
 - title: TKDE2025
   type: legacy
   image: images/accept.jpg

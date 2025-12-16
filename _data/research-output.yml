@@ -1,8 +1,8 @@
 - title: 'Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities'
   authors:
   - Yu Ye, Junchen Fu, Yu Song, Kaiwen Zheng, Joemon M. Jose
-  publisher: ECIR2026
-  date: '2025-12-16'
+  publisher: reproducbility paper ECIR2026
+  date: '2026-03-29'
   link: https://arxiv.org/abs/2508.07399
   image: images/paper_logo.png
 - title: 'Efficient Fine-tuning of Vision Language Models and Applications'

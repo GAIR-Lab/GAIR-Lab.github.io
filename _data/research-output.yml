@@ -1,3 +1,10 @@
+- title: 'LLMPopcorn: An empirical study of LLMs as assistants for popular micro-video generation'
+  authors:
+  - Junchen Fu, Xuri Ge, Kaiwen Zheng, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Yongxin Ni, Joemon M. Jose.
+  publisher: regular research paper ICASSP2026
+  date: '2026-05-04'
+  link: https://arxiv.org/abs/2502.12945
+  image: images/paper_logo.png
 - title: 'Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into Whole vs. Individual Modalities'
   authors:
   - Yu Ye, Junchen Fu, Yu Song, Kaiwen Zheng, Joemon M. Jose

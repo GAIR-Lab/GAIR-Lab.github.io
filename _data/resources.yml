@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: ICASSP2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One regular paper is accepted by ICASSP2026!!!"
 - title: ECIR2026
   type: legacy
   image: images/accept.jpg

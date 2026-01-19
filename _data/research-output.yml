@@ -162,19 +162,6 @@
   link: https://doi.org/10.1145/3701551.3703496
   image: images/paper_logo.png
 
-- title: 'LLMPopcorn: An empirical study of LLMs as assistants for popular micro-video generation'
-  authors:
-  - Junchen Fu
-  - Xuri Ge
-  - Kaiwen Zheng
-  - Ioannis Arapakis
-  - Xin Xin
-  - Joemon M. Jose
-  publisher: arXiv preprint
-  date: '2025-02-18'
-  link: https://arxiv.org/abs/2502.12945
-  image: images/paper_logo.png
-
 - title: 'Double-Filter: Efficient Fine-tuning of Pre-trained Vision-Language Models via Patch&Layer Filtering'
   authors:
   - Yaoqin He

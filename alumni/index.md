@@ -73,6 +73,7 @@ These are former lab alumni who have gone on to make significant contributions i
     <li>Fajie Yuan, Learning Implicit Recommenders from Massive Unobserved Feedback, Assistant Professor, Westlake University China.</li>
     <li>Xin Xin, Deep Learning-Based Implicit Feedback Recommendation, Assistant Professor in the School of Computer Science and Technology of Shandong University, China.</li>
     <li>Xuri Ge, Towards context-aware image semantic representation via modality relational reasoning and embedding, Assistant Professor in the School of Artificial Intelligence of Shandong University, China.</li>
+    <li>Jie Wang (2026) - Multi-objective personalization for recommender systems, University of Glasgow.</li>
 </ol>
 
 

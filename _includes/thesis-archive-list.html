@@ -1,0 +1,19 @@
+{%- comment -%}
+Renders PhD thesis cards from _data/thesis-archive.yml (newest first).
+{%- endcomment -%}
+{% assign theses = site.data['thesis-archive'] | sort: "year" | reverse %}
+{% assign default_image = "images/backgrounds/uofg.jpeg" %}
+
+{% for thesis in theses %}
+{% assign img = thesis.image | default: default_image %}
+{% capture meta %}{{ thesis.year }} · PhD · University of Glasgow{% endcapture %}
+{%
+  include card.html
+  size="small"
+  image=img
+  link=thesis.link
+  heading=thesis.title
+  row1=thesis.author
+  row2=meta
+%}
+{% endfor %}

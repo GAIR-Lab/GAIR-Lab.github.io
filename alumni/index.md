@@ -12,6 +12,10 @@ redirect_from:
 These are former lab alumni who have gone on to make significant contributions in their respective fields.
 </p>
 
+<p style="text-align: center;">
+<a href="{{ 'thesis-archive' | relative_url }}">Thesis Archive</a> — PhD dissertations in the University of Glasgow Enlighten repository.
+</p>
+
 {% capture html %}
 
 {% include alumni-tabled.html role="pi" group="alum" mini="true" %}

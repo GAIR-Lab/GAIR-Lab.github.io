@@ -1,0 +1,96 @@
+# University of Glasgow PhD theses (Enlighten only: https://theses.gla.ac.uk/). Verify author + title before adding.
+# Alumni PhD names without a confirmed Enlighten match yet: Mark Baillie; Iraklis Klampanos; Jana Urban (search by author/title on Enlighten).
+- author: "Jie Wang"
+  title: "Multi-objective personalization for recommender systems"
+  year: 2026
+  link: "https://theses.gla.ac.uk/85840/"
+
+- author: "Xuri Ge"
+  title: "Towards context-aware image semantic representation via modality relational reasoning and embedding"
+  year: 2024
+  link: "https://theses.gla.ac.uk/84783/"
+
+- author: "Xin Xin"
+  title: "Deep learning-based implicit feedback recommendation"
+  year: 2021
+  link: "https://theses.gla.ac.uk/82109/"
+
+- author: "Horatiu-Sorin Bota"
+  title: "Composite web search"
+  year: 2018
+  link: "https://theses.gla.ac.uk/38925/"
+
+- author: "Andrew James McMinn"
+  title: "Real-time event detection using Twitter"
+  year: 2018
+  link: "https://theses.gla.ac.uk/38990/"
+
+- author: "Jesus Alberto Rodriguez Perez"
+  title: "Microblog retrieval challenges and opportunities"
+  year: 2018
+  link: "https://theses.gla.ac.uk/8666/"
+
+- author: "Fajie Yuan"
+  title: "Learning implicit recommenders from massive unobserved feedback"
+  year: 2018
+  link: "https://theses.gla.ac.uk/30862/"
+
+- author: "Rami Suleiman Ayed Alkhawaldeh"
+  title: "Query routing in cooperative semi-structured peer-to-peer information retrieval networks"
+  year: 2016
+  link: "https://theses.gla.ac.uk/7849/"
+
+- author: "Andrew McHugh"
+  title: "An ontology for risk management of digital collections"
+  year: 2016
+  link: "https://theses.gla.ac.uk/7757/"
+
+- author: "Philip McParlane"
+  title: "The role of context in image annotation and recommendation"
+  year: 2016
+  link: "https://theses.gla.ac.uk/7676/"
+
+- author: "Stewart William Whiting"
+  title: "Temporal dynamics in information retrieval"
+  year: 2015
+  link: "https://theses.gla.ac.uk/6850/"
+
+- author: "Ke Zhou"
+  title: "On the evaluation of aggregated web search"
+  year: 2014
+  link: "https://theses.gla.ac.uk/7104/"
+
+- author: "Teerapong Leelanupab"
+  title: "A ranking framework and evaluation for diversity-based retrieval"
+  year: 2012
+  link: "https://theses.gla.ac.uk/3442/"
+
+- author: "Yashar Moshfeghi"
+  title: "Role of emotion in information retrieval"
+  year: 2012
+  link: "https://theses.gla.ac.uk/3118/"
+
+- author: "Vassilios Stathopoulos"
+  title: "Generative probabilistic models for image retrieval"
+  year: 2012
+  link: "https://theses.gla.ac.uk/3360/"
+
+- author: "Frank Hopfgartner"
+  title: "Personalised video retrieval: application of implicit feedback and semantic user profiles"
+  year: 2010
+  link: "https://theses.gla.ac.uk/2132/"
+
+- author: "Ioannis Arapakis"
+  title: "Affect-based information retrieval"
+  year: 2010
+  link: "https://theses.gla.ac.uk/1867/"
+
+- author: "Reede Ren"
+  title: "Audio-visual football video analysis, from structure detection to attention analysis"
+  year: 2007
+  link: "https://theses.gla.ac.uk/77/"
+
+- author: "Ryen W. White"
+  title: "Implicit feedback for interactive information retrieval"
+  year: 2004
+  link: "https://theses.gla.ac.uk/5738/"

@@ -1,5 +1,4 @@
-# PhD theses (https://theses.gla.ac.uk/). Verify author + title before adding.
-# Alumni PhD names without a confirmed Enlighten match yet: Mark Baillie; Iraklis Klampanos; Jana Urban (search by author/title on Enlighten).
+# PhD theses / dissertations: Enlighten (theses.gla.ac.uk) or Glasgow ePrints (eprints.gla.ac.uk). Verify author + title before adding.
 - author: "Jie Wang"
   title: "Multi-objective personalization for recommender systems"
   year: 2026
@@ -89,6 +88,21 @@
   title: "Audio-visual football video analysis, from structure detection to attention analysis"
   year: 2007
   link: "https://theses.gla.ac.uk/77/"
+
+- author: "Iraklis Klampanos"
+  title: "A cluster based architecture for Peer to Peer Information Retrieval"
+  year: 2006
+  link: "https://eprints.gla.ac.uk/39573/"
+
+- author: "Jana Urban"
+  title: "An Adaptive Approach for Image Organisation and Retrieval"
+  year: 2006
+  link: "https://eprints.gla.ac.uk/3583/"
+
+- author: "Mark Baillie"
+  title: "A Study of Audio based Sports Video Indexing techniques"
+  year: 2004
+  link: "https://eprints.gla.ac.uk/3402/"
 
 - author: "Ryen W. White"
   title: "Implicit feedback for interactive information retrieval"

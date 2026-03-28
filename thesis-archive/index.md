@@ -8,7 +8,7 @@ redirect_from:
 # <i class="fas fa-graduation-cap"></i>Thesis Archive
 
 <p style="text-align: center;">
-Doctoral dissertations at the University of Glasgow linked from the <a href="https://theses.gla.ac.uk/">Enlighten</a> repository (only Glasgow records). The list is curated from our <a href="{{ 'alumni' | relative_url }}">alumni</a> PhD roster; a few older names are not yet matched to an Enlighten entry—see the comment in the site data file.
+Doctoral dissertations linked from the <a href="https://theses.gla.ac.uk/">Enlighten</a> repository. The list is curated from our <a href="{{ 'alumni' | relative_url }}">alumni</a> PhD roster; a few older names are not yet matched to an Enlighten entry—see the comment in the site data file.
 </p>
 
 <!-- section break -->

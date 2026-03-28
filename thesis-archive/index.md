@@ -8,7 +8,7 @@ redirect_from:
 # <i class="fas fa-graduation-cap"></i>Thesis Archive
 
 <p style="text-align: center;">
-Doctoral dissertations linked from the <a href="https://theses.gla.ac.uk/">Enlighten</a> repository. The list is curated from our <a href="{{ 'alumni' | relative_url }}">alumni</a> PhD roster; a few older names are not yet listed—see the comment in <code>_data/thesis-archive.yml</code>.
+Doctoral dissertations linked from the <a href="https://theses.gla.ac.uk/">Enlighten</a> and <a href="https://eprints.gla.ac.uk/">Glasgow ePrints</a> repositories. The list is curated from our <a href="{{ 'alumni' | relative_url }}">alumni</a> PhD roster.
 </p>
 
 <!-- section break -->

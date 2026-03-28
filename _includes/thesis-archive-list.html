@@ -6,7 +6,7 @@ Renders PhD thesis cards from _data/thesis-archive.yml (newest first).
 
 {% for thesis in theses %}
 {% assign img = thesis.image | default: default_image %}
-{% capture meta %}{{ thesis.year }} · PhD · University of Glasgow{% endcapture %}
+{% capture meta %}{{ thesis.year }} · PhD{% endcapture %}
 {%
   include card.html
   size="small"

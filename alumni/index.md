@@ -13,14 +13,14 @@ These are former lab alumni who have gone on to make significant contributions i
 </p>
 
 <p style="text-align: center;">
-<a href="{{ 'thesis-archive' | relative_url }}">Thesis Archive</a> — PhD dissertations in the University of Glasgow Enlighten repository.
+<a href="{{ 'thesis-archive' | relative_url }}">Thesis Archive</a> — doctoral dissertations (full text).
 </p>
 
 {% capture html %}
 
 {% include alumni-tabled.html role="pi" group="alum" mini="true" %}
 <h3 style="text-align: start; width: 85%;"> Postdoctoral Fellows </h3>
-<!-- {% include alumni-tabled.html role="postdoc" group="alum" mini="true" %} -->
+{% comment %}{% include alumni-tabled.html role="postdoc" group="alum" mini="true" %}{% endcomment %}
 <ol style="text-align: start; width: 85%;">
     <li>Dr. Tassos Tombros, Personalization of Web Searches through Ostension and Summarization (2002- 2003). Senior Lecturer, Queen Mary, University of London, UK.</li>
     <li>Dr. Xavier Hilaire, Context sensitive Information Retrieval (2006), Assistant Professor, INRIA (Group ESIEE), Paris, France.</li>
@@ -47,10 +47,12 @@ These are former lab alumni who have gone on to make significant contributions i
     <li>Dr Long Chen, Topic Modelling (August 2014- Dec 2017), Innovation Research Fellow, UBDC, University of Glasgow</li>
 </ol>
 
-<!-- <h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
-{% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %} -->
+{% comment %}
+<h3 style="text-align: start; width: 85%;"> Bioinformatics Analysts </h3>
+{% include alumni-tabled.html role="bioinformatics-analyst" group="alum" mini="true" %}
+{% endcomment %}
 <h3 style="text-align: start; width: 85%;"> PhD Students </h3>
-<!-- {% include alumni-tabled.html role="phd" group="alum" mini="true" %} -->
+{% comment %}{% include alumni-tabled.html role="phd" group="alum" mini="true" %}{% endcomment %}
 <ol style="text-align: start; width: 85%;">
     <li>Ryen White (2004) - Implicit Feedback for Interactive Information Retrieval, University of Glasgow, (BCS/CPHC Distinguished Dissertation Award for the best Computer Science Ph.D. dissertation in the United Kingdom for 2004/2005), Ryen is currently a senior researcher at the Microsoft Research, Seattle, USA.</li>
     <li>Mark Baillie (2004) – A Study of Audio based Sports Video Indexing techniques, University of Glasgow, Currently Working in Industry.</li>
@@ -79,18 +81,20 @@ These are former lab alumni who have gone on to make significant contributions i
 
 
 
-<!-- <h3 style="text-align: start; width: 85%;"> PharmD Students </h3> -->
-<!-- {% include alumni-tabled.html role="pharmd" group="alum" mini="true" %} -->
-<!-- <h3 style="text-align: start; width: 85%;"> Master’s Students </h3> -->
-<!-- {% include alumni-tabled.html role="masters" group="alum" mini="true" %} -->
-<!-- <h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3> -->
-<!-- {% include alumni-tabled.html role="undergrad" group="alum" mini="true" %} -->
-<!-- <h3 style="text-align: start; width: 85%;"> High School Students </h3> -->
-<!-- {% include alumni-tabled.html role="highschool" group="alum" mini="true" %} -->
-<!-- <h3 style="text-align: start; width: 85%;"> Programmers </h3> -->
-<!-- {% include alumni-tabled.html role="programmer" group="alum" mini="true" %} -->
-<!-- <h3 style="text-align: start; width: 85%;"> Mascots </h3> -->
-<!-- {% include alumni-tabled.html role="mascot" group="alum" mini="true" %}-->
+{% comment %}
+<h3 style="text-align: start; width: 85%;"> PharmD Students </h3>
+{% include alumni-tabled.html role="pharmd" group="alum" mini="true" %}
+<h3 style="text-align: start; width: 85%;"> Master’s Students </h3>
+{% include alumni-tabled.html role="masters" group="alum" mini="true" %}
+<h3 style="text-align: start; width: 85%;"> Undergraduate Students </h3>
+{% include alumni-tabled.html role="undergrad" group="alum" mini="true" %}
+<h3 style="text-align: start; width: 85%;"> High School Students </h3>
+{% include alumni-tabled.html role="highschool" group="alum" mini="true" %}
+<h3 style="text-align: start; width: 85%;"> Programmers </h3>
+{% include alumni-tabled.html role="programmer" group="alum" mini="true" %}
+<h3 style="text-align: start; width: 85%;"> Mascots </h3>
+{% include alumni-tabled.html role="mascot" group="alum" mini="true" %}
+{% endcomment %}
 
 {% endcapture %}
 

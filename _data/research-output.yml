@@ -1,3 +1,10 @@
+- title: 'Differentiable Semantic ID for Generative Recommendation.'
+  authors:
+  - Junchen Fu, Xuri Ge, Alexandros Karatzoglou, Ioannis Arapakis, Suzan Verberne, Joemon M. Jose, Zhaochun Ren.
+  publisher: regular research paper SIGIR2026
+  date: '2026-07-20'
+  link: https://arxiv.org/abs/2601.19711
+  image: images/paper_logo.png
 - title: 'LLMPopcorn: An empirical study of LLMs as assistants for popular micro-video generation'
   authors:
   - Junchen Fu, Xuri Ge, Kaiwen Zheng, Alexandros Karatzoglou, Ioannis Arapakis, Xin Xin, Yongxin Ni, Joemon M. Jose.

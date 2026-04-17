@@ -14,7 +14,7 @@ Our lab is actively seeking self-motivated Ph.D. students with a strong backgrou
 
 <b style="color:red;">Latest News:</b><br>
 <b style="color:red;">
-    Our lab will co-organize R3AG Workshop in SIGIR-AP 2025, the submissions are welcome! </b>
+    Our lab will co-organize EReL@MIR Workshop in WWW 2026, the submissions are welcome! </b>
     The website link is at <a href="https://erel-mir.github.io/" style="color:blue;">https://erel-mir.github.io/</a>, 
     the submission link is <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR" style="color:blue;">https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR</a>.
 <!-- <b style="color:red;">

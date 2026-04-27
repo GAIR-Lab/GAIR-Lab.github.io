@@ -32,9 +32,10 @@ This tab contains photos of GAIR-Lab and the University of Glasgow in Glasgow, U
   image19="images/gair_party.jpg"
   image20="images/Lab_photo_1.jpg"
   image21="images/uofg_view2.png"
-  image22="images/gallery/event-photo-8.jpg"
-  image23="images/gallery/event-photo-9.jpg"
-  image24="images/gallery/event-photo-10.jpg"
+  image22="images/jie_graduation.png"
+  image23="images/oliver_graduation.png"
+  tooltip22="Jie Wang — PhD celebration"
+  tooltip23="Oliver — PhD celebration"
 %}
 
 Some photos are from social media.

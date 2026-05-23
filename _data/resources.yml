@@ -19,6 +19,16 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: IJMIR2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One regular paper is accepted by IJMIR 2026!!!"
+- title: PR2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One regular paper is accepted by Pattern Recognition 2026!!!"
 - title: SIGIR2026
   type: legacy
   image: images/accept.jpg

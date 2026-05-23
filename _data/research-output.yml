@@ -1,3 +1,17 @@
+- title: 'A Reproducibility Study of Multimodal Embeddings for Recommender Systems.'
+  authors:
+  - Yu Ye, Junchen Fu, Yu Song, Kaiwen Zheng, Joemon M. Jose.
+  publisher: regular research paper IJMIR 2026
+  date: '2026-05-23'
+  link: https://arxiv.org/abs/2508.07399
+  image: images/paper_logo.png
+- title: 'Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues.'
+  authors:
+  - Junchen Fu, Wenhao Deng, Kaiwen Zheng, Ioannis Arapakis, Yu Ye, Yongxin Ni, Joemon M. Jose, Xuri Ge.
+  publisher: regular research paper Pattern Recognition 2026
+  date: '2026-05-23'
+  link: https://arxiv.org/abs/2601.19750
+  image: images/paper_logo.png
 - title: 'Differentiable Semantic ID for Generative Recommendation.'
   authors:
   - Junchen Fu, Xuri Ge, Alexandros Karatzoglou, Ioannis Arapakis, Suzan Verberne, Joemon M. Jose, Zhaochun Ren.

@@ -7,6 +7,7 @@ search:
 image: images/team/oliver.jpg
 
 role: phd
+group: alum
 
 email: o.warke.1@research.gla.ac.uk 
 github:  

@@ -14,7 +14,7 @@ body {
   justify-content: flex-start;
   align-items: stretch;
   flex-direction: column;
-  font-size: clamp(1rem, 0.96rem + 0.2vw, 1.125rem);
+  font-size: clamp(1rem, calc(0.96rem + 0.2vw), 1.125rem);
 
   main {
     box-sizing: border-box;
@@ -25,7 +25,8 @@ body {
   section {
     .section {
       box-sizing: border-box;
-      width: min(100%, 1120px);
+      width: 100%;
+      max-width: 1120px;
       margin: 0 auto;
       padding: clamp(24px, 5vw, 56px) clamp(18px, 5vw, 48px);
     }

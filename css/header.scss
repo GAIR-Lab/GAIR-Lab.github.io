@@ -41,7 +41,7 @@ header {
 
     .logo_text {
       font-family: $sans;
-      font-size: clamp(1rem, 0.78rem + 0.9vw, 1.55rem);
+      font-size: clamp(1rem, calc(0.78rem + 0.9vw), 1.55rem);
       color: $light-blue;
       line-height: 1.22;
       margin: 0;

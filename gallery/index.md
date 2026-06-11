@@ -1,6 +1,6 @@
 ---
 title: Gallery
-background: images/backgrounds/uofg.jpg
+background: images/backgrounds/uofg.jpeg
 ---
 
 # <i class="fas fa-feather-alt"></i>Gallery

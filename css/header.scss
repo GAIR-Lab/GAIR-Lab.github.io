@@ -30,13 +30,14 @@ header {
       flex: 0 0 auto;
       justify-content: center;
       align-items: center;
-      max-width: clamp(120px, 20vw, 270px);
+      max-width: clamp(240px, 38vw, 540px);
     }
 
     .logo > * {
       width: auto;
-      max-width: clamp(120px, 20vw, 270px);
-      height: clamp(72px, 12vw, 132px);
+      max-width: clamp(240px, 38vw, 540px);
+      height: clamp(120px, 16vw, 220px);
+      object-fit: contain;
     }
 
     .logo_text {
@@ -123,7 +124,7 @@ header {
       gap: 10px;
 
       .logo > * {
-        max-width: clamp(140px, 52vw, 220px);
+        max-width: 360px;
         height: clamp(64px, 24vw, 96px);
       }
 

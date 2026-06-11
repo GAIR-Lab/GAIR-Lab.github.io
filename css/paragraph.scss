@@ -9,4 +9,8 @@ p {
   @include trim-margins;
   text-align: justify;
   line-height: 1.7;
+
+  @media (max-width: $phone) {
+    text-align: left;
+  }
 }

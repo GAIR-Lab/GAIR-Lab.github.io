@@ -3,6 +3,30 @@
 
 @import "variables";
 
+html {
+  font-size: 16px;
+}
+
 * {
+  box-sizing: border-box;
   font-family: $serif;
+}
+
+body {
+  color: $black;
+  background: $off-white;
+  overflow-x: hidden;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+a,
+p,
+li,
+td,
+th {
+  overflow-wrap: break-word;
 }

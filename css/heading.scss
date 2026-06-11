@@ -22,22 +22,24 @@ h4 {
   }
 }
 h1 {
-  font-size: 1.4rem;
-  letter-spacing: 2px;
+  font-size: clamp(1.35rem, 1.12rem + 0.7vw, 1.8rem);
+  letter-spacing: 1px;
   text-transform: uppercase;
   text-align: center;
+  text-wrap: balance;
 
   & + p {
     margin-top: 40px;
   }
 }
 h2 {
-  font-size: 1.3rem;
+  font-size: clamp(1.2rem, 1.08rem + 0.45vw, 1.5rem);
   letter-spacing: 1px;
   text-align: center;
+  text-wrap: balance;
 }
 h3 {
-  font-size: 1.2rem;
+  font-size: clamp(1.1rem, 1.02rem + 0.35vw, 1.3rem);
   text-align: center;
 }
 h4 {

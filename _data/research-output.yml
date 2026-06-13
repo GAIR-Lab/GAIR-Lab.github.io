@@ -1,3 +1,12 @@
+- title: 'Beyond Hostility: Detecting Subtle and Overt Forms of Online Conflict with Multi-Objective Learning'
+  authors:
+  - Oliver Warke
+  - Joemon M. Jose
+  - Jan Breitsohl
+  publisher: journal paper IRRJ 2026
+  date: '2026-06-13'
+  link:
+  image: images/paper_logo.png
 - title: 'A Reproducibility Study of Multimodal Embeddings for Recommender Systems.'
   authors:
   - Yu Ye, Junchen Fu, Yu Song, Kaiwen Zheng, Joemon M. Jose.

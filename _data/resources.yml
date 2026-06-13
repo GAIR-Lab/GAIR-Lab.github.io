@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: IRRJ2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One journal paper is accepted by IRRJ 2026: Beyond Hostility: Detecting Subtle and Overt Forms of Online Conflict with Multi-Objective Learning!!!"
 - title: IJMIR2026
   type: legacy
   image: images/accept.jpg

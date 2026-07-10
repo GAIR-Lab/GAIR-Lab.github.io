@@ -2,10 +2,10 @@
 title: News
 ---
 
-# <i class="fas fa-tools"></i>News
+# <i class="fas fa-newspaper"></i> News
 
 <p style="text-align: center;">
-This page includes our lab news in which GAIR Lab was featured.  
+This page provides official announcements from GAIR Lab, including paper acceptances, awards, and other research updates.
 </p>
 
 <!-- section break -->

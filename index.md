@@ -13,10 +13,11 @@ GAIR Lab is committed to researching generative artificial intelligence solution
 Our lab is actively seeking self-motivated Ph.D. students with a strong background in AI. If you're interested, please don't hesitate to reach out via email.
 
 <b style="color:red;">Latest News:</b><br>
-<b style="color:red;">
-    Our lab will co-organize EReL@MIR Workshop in MM 2026, the submissions are welcome! </b>
-    The website link is at <a href="https://erel-mir.github.io/" style="color:blue;">https://erel-mir.github.io/</a>, 
-    the submission link is <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR" style="color:blue;">https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR</a>.
+<ul>
+  <li>We are pleased to announce that <b>one full paper</b> from GAIR Lab has been accepted to <b>RecSys 2026</b> (the 20th ACM Conference on Recommender Systems). <a href="news/" style="color:blue;">Read more →</a></li>
+  <li>We are pleased to announce that <b>two regular papers</b> from GAIR Lab have been accepted to <b>ACM MM 2026</b> (the 34th ACM International Conference on Multimedia). <a href="news/" style="color:blue;">Read more →</a></li>
+  <li>Our lab will co-organize the <b>EReL@MIR Workshop</b> at ACM MM 2026; submissions are welcome. Website: <a href="https://erel-mir.github.io/" style="color:blue;">https://erel-mir.github.io/</a>; submission portal: <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR" style="color:blue;">OpenReview</a>.</li>
+</ul>
 <!-- <b style="color:red;">
     Our lab will co-organize R3AG Workshop in SIGIR-AP 2025, the submissions are welcome! </b>
     The website link is at <a href="https://ii-research.github.io/R3AG/2025/" style="color:blue;">https://ii-research.github.io/R3AG/2025/</a>, 

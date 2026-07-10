@@ -19,6 +19,16 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: RecSys 2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "We are pleased to announce that one full paper from GAIR Lab has been accepted to the 20th ACM Conference on Recommender Systems (RecSys 2026)."
+- title: ACM MM 2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "We are pleased to announce that two regular papers from GAIR Lab have been accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)."
 - title: IRRJ2026
   type: legacy
   image: images/accept.jpg

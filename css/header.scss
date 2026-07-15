@@ -30,13 +30,13 @@ header {
       flex: 0 0 auto;
       justify-content: center;
       align-items: center;
-      max-width: clamp(240px, 38vw, 540px);
+      max-width: clamp(160px, 26vw, 300px);
     }
 
     .logo > * {
       width: auto;
-      max-width: clamp(240px, 38vw, 540px);
-      height: clamp(120px, 16vw, 220px);
+      max-width: clamp(160px, 26vw, 300px);
+      height: clamp(56px, 8vw, 96px);
       object-fit: contain;
     }
 

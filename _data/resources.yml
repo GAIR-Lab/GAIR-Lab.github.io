@@ -19,6 +19,11 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: JCSS2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://gair-lab.github.io/news/
+  description: "One journal paper is accepted by JCSS 2026: PromptAug: Fine-grained Conflict Classification Using Data Augmentation (Oliver Warke, Joemon M. Jose, Faegheh Hasibi, Jan Breitsohl)!!!"
 - title: RecSys 2026 & ACM MM 2026
   type: legacy
   image: images/accept.jpg

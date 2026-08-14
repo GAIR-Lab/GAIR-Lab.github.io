@@ -19,20 +19,25 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
-- title: JCSS2026
+- title: CIKM2026
   type: legacy
   image: images/accept.jpg
   link: https://gair-lab.github.io/news/
-  description: "One journal paper is accepted by JCSS 2026: PromptAug: Fine-grained Conflict Classification Using Data Augmentation (Oliver Warke, Joemon M. Jose, Faegheh Hasibi, Jan Breitsohl)!!!"
+  description: "Two full papers are accepted by CIKM 2026: (1) Role of Personality in Conversational Information Seeking (Abdisalam Abukar, Junchen Fu, Chengli Zhai, Joemon M. Jose); (2) Recommender System as Slow and Fast Thinkers (Zichen Yuan, Xiaoxuan Dong, Linkun Dai, Jinwei Yang, Jining Luan, Dexu Yu, Chunxiao Li, Joemon M. Jose, Youhua Li, Hanwen Du, Junchen Fu)!!!"
 - title: RecSys 2026 & ACM MM 2026
   type: legacy
   image: images/accept.jpg
   link: https://gair-lab.github.io/news/
-  description: "We are pleased to announce that one full paper from GAIR Lab has been accepted to the 20th ACM Conference on Recommender Systems (RecSys 2026), and two regular papers have been accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026)."
+  description: "We are pleased to announce that one full paper from GAIR Lab has been accepted to RecSys 2026: RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation; and two regular papers have been accepted to ACM MM 2026: (1) Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation; (2) Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?"
+- title: JCSS2026
+  type: legacy
+  image: images/accept.jpg
+  link: https://arxiv.org/abs/2506.22491
+  description: "One journal paper is accepted by JCSS 2026: PromptAug: Fine-grained Conflict Classification Using Data Augmentation (Oliver Warke, Joemon M. Jose, Faegheh Hasibi, Jan Breitsohl)!!!"
 - title: IRRJ2026
   type: legacy
   image: images/accept.jpg
-  link: https://gair-lab.github.io/news/
+  link: https://doi.org/10.54195/irrj.25366
   description: "One journal paper is accepted by IRRJ 2026: Beyond Hostility: Detecting Subtle and Overt Forms of Online Conflict with Multi-Objective Learning!!!"
 - title: IJMIR2026
   type: legacy

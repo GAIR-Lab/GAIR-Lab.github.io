@@ -1,3 +1,70 @@
+- title: 'Role of Personality in Conversational Information Seeking'
+  authors:
+  - Abdisalam Abukar
+  - Junchen Fu
+  - Chengli Zhai
+  - Joemon M. Jose
+  publisher: full research paper CIKM 2026
+  date: '2026-08-11'
+  link: https://arxiv.org/abs/2608.11164
+  image: images/paper_logo.png
+- title: 'Recommender System as Slow and Fast Thinkers'
+  authors:
+  - Zichen Yuan
+  - Xiaoxuan Dong
+  - Linkun Dai
+  - Jinwei Yang
+  - Jining Luan
+  - Dexu Yu
+  - Chunxiao Li
+  - Joemon M. Jose
+  - Youhua Li
+  - Hanwen Du
+  - Junchen Fu
+  publisher: full research paper CIKM 2026
+  date: '2026-08-11'
+  link:
+  image: images/paper_logo.png
+- title: 'RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation'
+  authors:
+  - Wenhao Deng
+  - Junchen Fu
+  - Hanwen Du
+  - Alexandros Karatzoglou
+  - Ioannis Arapakis
+  - Hangjun Guo
+  - Kaiwen Zheng
+  - Yongxin Ni
+  - Joemon M. Jose
+  publisher: full research paper RecSys 2026
+  date: '2026-07-10'
+  link: https://arxiv.org/abs/2607.12945
+  image: images/paper_logo.png
+- title: 'Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation'
+  authors:
+  - Junchen Fu
+  - Kaiwen Zheng
+  - Ioannis Arapakis
+  - Wenhao Deng
+  - Xin Xin
+  - Joemon M. Jose
+  - Xuri Ge
+  publisher: regular research paper ACM MM 2026
+  date: '2026-07-10'
+  link: https://arxiv.org/abs/2607.10909
+  image: images/paper_logo.png
+- title: 'Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?'
+  authors:
+  - Kaiwen Zheng
+  - Junchen Fu
+  - Wenhao Deng
+  - Hu Han
+  - Joemon M. Jose
+  - Xuri Ge
+  publisher: regular research paper ACM MM 2026
+  date: '2026-07-10'
+  link: https://arxiv.org/abs/2607.12787
+  image: images/paper_logo.png
 - title: 'PromptAug: Fine-grained Conflict Classification Using Data Augmentation'
   authors:
   - Oliver Warke
@@ -15,7 +82,7 @@
   - Jan Breitsohl
   publisher: journal paper IRRJ 2026
   date: '2026-06-13'
-  link:
+  link: https://doi.org/10.54195/irrj.25366
   image: images/paper_logo.png
 - title: 'A Reproducibility Study of Multimodal Embeddings for Recommender Systems.'
   authors:
@@ -82,7 +149,7 @@
   - Joemon M. Jose
   publisher: regular research paper TKDE 2025
   date: '2025-09-10'
-  link: https://eprints.gla.ac.uk/365726/
+  link: https://doi.org/10.1109/TKDE.2025.3608071
   image: images/paper_logo.png
 
 - title: 'Frequency-Decoupled Distillation for Efficient Multimodal Recommendation'
@@ -96,7 +163,7 @@
   - Yongxin Ni
   publisher: full research paper CIKM 2025
   date: '2025-11-10'
-  link: https://eprints.gla.ac.uk/361950/
+  link: https://doi.org/10.1145/3746252.3761242
   image: images/paper_logo.png
 
 - title: 'Beyond Clicks: Eye-Tracking Insights into User Responses to Different Recommendation Types'
@@ -110,7 +177,7 @@
   - Ioannis Arapakis
   publisher: RecSys 2025
   date: '2025-09-22'
-  link: https://eprints.gla.ac.uk/361827/
+  link: https://doi.org/10.1145/3705328.3759304
   image: images/paper_logo.png
 
 - title: 'LLM supporting knowledge tracing leveraging global subject and student specific knowledge graphs'
@@ -121,7 +188,7 @@
   - Xuri Ge
   publisher: Information Fusion (Accepted for Publication)
   date: '2026-02-01'
-  link: https://eprints.gla.ac.uk/360853/
+  link: https://doi.org/10.1016/j.inffus.2025.103577
   image: images/paper_logo.png
 
 - title: 'A Comparative Study of Conversational and Conventional Search Methods for Image Retrieval'
@@ -130,7 +197,7 @@
   - Joemon M. Jose
   publisher: IEEE CBMI 2025
   date: '2025-10-22'
-  link: 
+  link: https://doi.org/10.1109/CBMI66578.2025.11339303
   image: images/paper_logo.png
 
 - title: 'An Instruction-Response Perspective on Large Language Models in Information Retrieval Tasks'
@@ -214,7 +281,7 @@
   - Xuri Ge
   publisher: full research paper TKDE25
   date: '2025-6-30'
-  link: 10.1109/TKDE.2025.3582506  
+  link: https://doi.org/10.1109/TKDE.2025.3582506
   image: images/paper_logo.png
 - title: 'Multimodal Representation Learning Techniques for Comprehensive Facial State Analysis'
   authors:
@@ -225,7 +292,7 @@
   - Joemon M. Jose
   publisher: full research paper ICME25
   date: '2025-7-7'
-  link: https://arxiv.org/abs/2504.10351
+  link: https://doi.org/10.1109/ICME59968.2025.11208908
   image: images/paper_logo.png
 - title: 'Towards End-to-End Explainable Facial Action Unit Recognition via Vision-Language Joint Learning'
   authors:
@@ -249,7 +316,7 @@
   - Joemon M. Jose
   publisher: full research paper CIKM24
   date: '2024-07-18'
-  link: https://scholar.google.co.uk/citations?view_op=view_citation&hl=zh-CN&user=dK1hORsAAAAJ&sortby=pubdate&citation_for_view=dK1hORsAAAAJ:8uzoZH4hB9AC
+  link: https://doi.org/10.1145/3627673.3679533
   image: images/paper_logo.png
   
 - title: 'Capturing the Spectrum of Social Media Conflict: A Novel Multi-objective Classification Model'
@@ -274,7 +341,7 @@
   - Joemon M. Jose
   publisher: Accpeted by SIGIR2024 as a full paper
   date: '2024-04-02'
-  link: https://arxiv.org/abs/2404.02059
+  link: https://doi.org/10.1145/3626772.3657725
   image: images/research/IISAN.png
 
 - title: 'Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling'
@@ -285,7 +352,7 @@
   - Joemon M. Jose
   publisher: Accpeted by SIGIR2024 as a full paper
   date: '2024-03-25'
-  link: https://arxiv.org/abs/2403.16948
+  link: https://doi.org/10.1145/3626772.3657767
   image: images/research/SSRL4R.png
 
 - title: 'CFIR: Fast and Effective Long-Text To Image Retrieval for Large Corpora'
@@ -296,7 +363,7 @@
   - Joemon M. Jose
   publisher: Accpeted by SIGIR2024 as a full paper
   date: '2024-03-23'
-  link: https://arxiv.org/abs/2402.15276
+  link: https://doi.org/10.1145/3626772.3657741
   image: images/research/CFIR.png
 
 - title: '3SHNet: Boosting image–sentence retrieval via visual semantic–spatial self-highlighting'

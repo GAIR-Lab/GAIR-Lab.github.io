@@ -23,7 +23,7 @@
   type: legacy
   image: images/accept.jpg
   link: https://gair-lab.github.io/news/
-  description: "Two full papers are accepted by CIKM 2026: (1) Role of Personality in Conversational Information Seeking (Abdisalam Abukar, Junchen Fu, Chengli Zhai, Joemon M. Jose); (2) Recommender System as Slow and Fast Thinkers (Zichen Yuan, Xiaoxuan Dong, Linkun Dai, Jinwei Yang, Jining Luan, Dexu Yu, Chunxiao Li, Joemon M. Jose, Youhua Li, Hanwen Du, Junchen Fu)!!!"
+  description: "Two full papers are accepted by CIKM 2026: (1) Role of Personality in Conversational Information Seeking; (2) Recommender System as Slow and Fast Thinkers!!!"
 - title: RecSys 2026 & ACM MM 2026
   type: legacy
   image: images/accept.jpg
@@ -33,7 +33,7 @@
   type: legacy
   image: images/accept.jpg
   link: https://arxiv.org/abs/2506.22491
-  description: "One journal paper is accepted by JCSS 2026: PromptAug: Fine-grained Conflict Classification Using Data Augmentation (Oliver Warke, Joemon M. Jose, Faegheh Hasibi, Jan Breitsohl)!!!"
+  description: "One journal paper is accepted by JCSS 2026: PromptAug: Fine-grained Conflict Classification Using Data Augmentation!!!"
 - title: IRRJ2026
   type: legacy
   image: images/accept.jpg
